@@ -1,0 +1,1432 @@
+/*
+ * COPIC colors see: https://imaginationinternationalinc.com/copic/store/color-picker/?name=&family=&type=2
+ * (c)2014 thanos vassilakis
+ */
+.100 {color:#312b2b !important;} /* Black */
+.background-100 {background-color:#312b2b !important;} /* Black */
+.border-100 {border-color:#312b2b !important;} /* Black */
+
+.110 {color:#030708 !important;} /* Special Black */
+.background-110 {background-color:#030708 !important;} /* Special Black */
+.border-110 {border-color:#030708 !important;} /* Special Black */
+
+.B0000 {color:#f0f9fe !important;} /* Pale Celestine */
+.background-B0000 {background-color:#f0f9fe !important;} /* Pale Celestine */
+.border-B0000 {border-color:#f0f9fe !important;} /* Pale Celestine */
+
+.B000 {color:#e6f4f5 !important;} /* Pale Porcelain Blue */
+.background-B000 {background-color:#e6f4f5 !important;} /* Pale Porcelain Blue */
+.border-B000 {border-color:#e6f4f5 !important;} /* Pale Porcelain Blue */
+
+.B00 {color:#ddf0f4 !important;} /* Frost Blue */
+.background-B00 {background-color:#ddf0f4 !important;} /* Frost Blue */
+.border-B00 {border-color:#ddf0f4 !important;} /* Frost Blue */
+
+.B01 {color:#d6eef2 !important;} /* Mint Blue */
+.background-B01 {background-color:#d6eef2 !important;} /* Mint Blue */
+.border-B01 {border-color:#d6eef2 !important;} /* Mint Blue */
+
+.B02 {color:#b3e3f1 !important;} /* Robin's Egg Blue */
+.background-B02 {background-color:#b3e3f1 !important;} /* Robin's Egg Blue */
+.border-B02 {border-color:#b3e3f1 !important;} /* Robin's Egg Blue */
+
+.B04 {color:#73cfe6 !important;} /* Tahitian Blue */
+.background-B04 {background-color:#73cfe6 !important;} /* Tahitian Blue */
+.border-B04 {border-color:#73cfe6 !important;} /* Tahitian Blue */
+
+.B05 {color:#40c5e6 !important;} /* Process Blue */
+.background-B05 {background-color:#40c5e6 !important;} /* Process Blue */
+.border-B05 {border-color:#40c5e6 !important;} /* Process Blue */
+
+.B06 {color:#00b3e6 !important;} /* Peacok Blue */
+.background-B06 {background-color:#00b3e6 !important;} /* Peacok Blue */
+.border-B06 {border-color:#00b3e6 !important;} /* Peacok Blue */
+
+.B12 {color:#c8e6f0 !important;} /* Ice Blue */
+.background-B12 {background-color:#c8e6f0 !important;} /* Ice Blue */
+.border-B12 {border-color:#c8e6f0 !important;} /* Ice Blue */
+
+.B14 {color:#71cfeb !important;} /* Light Blue */
+.background-B14 {background-color:#71cfeb !important;} /* Light Blue */
+.border-B14 {border-color:#71cfeb !important;} /* Light Blue */
+
+.B16 {color:#00bcea !important;} /* Cyanine Blue */
+.background-B16 {background-color:#00bcea !important;} /* Cyanine Blue */
+.border-B16 {border-color:#00bcea !important;} /* Cyanine Blue */
+
+.B18 {color:#1d8acb !important;} /* Lapis Lazuli */
+.background-B18 {background-color:#1d8acb !important;} /* Lapis Lazuli */
+.border-B18 {border-color:#1d8acb !important;} /* Lapis Lazuli */
+
+.B21 {color:#dbedf9 !important;} /* Baby Blue */
+.background-B21 {background-color:#dbedf9 !important;} /* Baby Blue */
+.border-B21 {border-color:#dbedf9 !important;} /* Baby Blue */
+
+.B23 {color:#92c2e8 !important;} /* Phthalo Blue */
+.background-B23 {background-color:#92c2e8 !important;} /* Phthalo Blue */
+.border-B23 {border-color:#92c2e8 !important;} /* Phthalo Blue */
+
+.B24 {color:#8acef3 !important;} /* Sky */
+.background-B24 {background-color:#8acef3 !important;} /* Sky */
+.border-B24 {border-color:#8acef3 !important;} /* Sky */
+
+.B26 {color:#65b3e3 !important;} /* Cobalt Blue */
+.background-B26 {background-color:#65b3e3 !important;} /* Cobalt Blue */
+.border-B26 {border-color:#65b3e3 !important;} /* Cobalt Blue */
+
+.B28 {color:#196db6 !important;} /* Royal Blue */
+.background-B28 {background-color:#196db6 !important;} /* Royal Blue */
+.border-B28 {border-color:#196db6 !important;} /* Royal Blue */
+
+.B29 {color:#0177c1 !important;} /* Ultramarine */
+.background-B29 {background-color:#0177c1 !important;} /* Ultramarine */
+.border-B29 {border-color:#0177c1 !important;} /* Ultramarine */
+
+.B32 {color:#e2eff7 !important;} /* Pale Blue */
+.background-B32 {background-color:#e2eff7 !important;} /* Pale Blue */
+.border-B32 {border-color:#e2eff7 !important;} /* Pale Blue */
+
+.B34 {color:#82c3ed !important;} /* Manganese Blue */
+.background-B34 {background-color:#82c3ed !important;} /* Manganese Blue */
+.border-B34 {border-color:#82c3ed !important;} /* Manganese Blue */
+
+.B37 {color:#156fa4 !important;} /* Antwerp Blue */
+.background-B37 {background-color:#156fa4 !important;} /* Antwerp Blue */
+.border-B37 {border-color:#156fa4 !important;} /* Antwerp Blue */
+
+.B39 {color:#2b64a9 !important;} /* Prussian Blue */
+.background-B39 {background-color:#2b64a9 !important;} /* Prussian Blue */
+.border-B39 {border-color:#2b64a9 !important;} /* Prussian Blue */
+
+.B41 {color:#e2f0fb !important;} /* Powder Blue */
+.background-B41 {background-color:#e2f0fb !important;} /* Powder Blue */
+.border-B41 {border-color:#e2f0fb !important;} /* Powder Blue */
+
+.B45 {color:#75c0ea !important;} /* Smoky Blue */
+.background-B45 {background-color:#75c0ea !important;} /* Smoky Blue */
+.border-B45 {border-color:#75c0ea !important;} /* Smoky Blue */
+
+.B52 {color:#adcddc !important;} /* Soft Greenish Blue */
+.background-B52 {background-color:#adcddc !important;} /* Soft Greenish Blue */
+.border-B52 {border-color:#adcddc !important;} /* Soft Greenish Blue */
+
+.B60 {color:#dae1f3 !important;} /* Pale Blue Gray */
+.background-B60 {background-color:#dae1f3 !important;} /* Pale Blue Gray */
+.border-B60 {border-color:#dae1f3 !important;} /* Pale Blue Gray */
+
+.B63 {color:#a7bbe0 !important;} /* Light Hydrangea */
+.background-B63 {background-color:#a7bbe0 !important;} /* Light Hydrangea */
+.border-B63 {border-color:#a7bbe0 !important;} /* Light Hydrangea */
+
+.B66 {color:#6888c5 !important;} /* Clematis */
+.background-B66 {background-color:#6888c5 !important;} /* Clematis */
+.border-B66 {border-color:#6888c5 !important;} /* Clematis */
+
+.B69 {color:#2165ae !important;} /* Stratospheric Blue */
+.background-B69 {background-color:#2165ae !important;} /* Stratospheric Blue */
+.border-B69 {border-color:#2165ae !important;} /* Stratospheric Blue */
+
+.B79 {color:#3b479d !important;} /* Iris */
+.background-B79 {background-color:#3b479d !important;} /* Iris */
+.border-B79 {border-color:#3b479d !important;} /* Iris */
+
+.B91 {color:#d5e2eb !important;} /* Pale Grayish Blue */
+.background-B91 {background-color:#d5e2eb !important;} /* Pale Grayish Blue */
+.border-B91 {border-color:#d5e2eb !important;} /* Pale Grayish Blue */
+
+.B93 {color:#95c1da !important;} /* Light Crockery Blue */
+.background-B93 {background-color:#95c1da !important;} /* Light Crockery Blue */
+.border-B93 {border-color:#95c1da !important;} /* Light Crockery Blue */
+
+.B95 {color:#74a7c6 !important;} /* Light Grayish Cobalt */
+.background-B95 {background-color:#74a7c6 !important;} /* Light Grayish Cobalt */
+.border-B95 {border-color:#74a7c6 !important;} /* Light Grayish Cobalt */
+
+.B97 {color:#457a9a !important;} /* Night Blue */
+.background-B97 {background-color:#457a9a !important;} /* Night Blue */
+.border-B97 {border-color:#457a9a !important;} /* Night Blue */
+
+.B99 {color:#0f547e !important;} /* Agate */
+.background-B99 {background-color:#0f547e !important;} /* Agate */
+.border-B99 {border-color:#0f547e !important;} /* Agate */
+
+.BG0000 {color:#eff8f3 !important;} /* Snow Green */
+.background-BG0000 {background-color:#eff8f3 !important;} /* Snow Green */
+.border-BG0000 {border-color:#eff8f3 !important;} /* Snow Green */
+
+.BG000 {color:#e5f4ed !important;} /* Pale Aqua */
+.background-BG000 {background-color:#e5f4ed !important;} /* Pale Aqua */
+.border-BG000 {border-color:#e5f4ed !important;} /* Pale Aqua */
+
+.BG01 {color:#c7e6fa !important;} /* Aqua Blue */
+.background-BG01 {background-color:#c7e6fa !important;} /* Aqua Blue */
+.border-BG01 {border-color:#c7e6fa !important;} /* Aqua Blue */
+
+.BG02 {color:#c6e8ea !important;} /* New Blue */
+.background-BG02 {background-color:#c6e8ea !important;} /* New Blue */
+.border-BG02 {border-color:#c6e8ea !important;} /* New Blue */
+
+.BG05 {color:#83d2e1 !important;} /* Holiday Blue */
+.background-BG05 {background-color:#83d2e1 !important;} /* Holiday Blue */
+.border-BG05 {border-color:#83d2e1 !important;} /* Holiday Blue */
+
+.BG07 {color:#1db8ce !important;} /* Petroleum Blue */
+.background-BG07 {background-color:#1db8ce !important;} /* Petroleum Blue */
+.border-BG07 {border-color:#1db8ce !important;} /* Petroleum Blue */
+
+.BG09 {color:#01b1c9 !important;} /* Blue Green */
+.background-BG09 {background-color:#01b1c9 !important;} /* Blue Green */
+.border-BG09 {border-color:#01b1c9 !important;} /* Blue Green */
+
+.BG10 {color:#dcf0ef !important;} /* Cool Shadow */
+.background-BG10 {background-color:#dcf0ef !important;} /* Cool Shadow */
+.border-BG10 {border-color:#dcf0ef !important;} /* Cool Shadow */
+
+.BG11 {color:#ceebf1 !important;} /* Moon White */
+.background-BG11 {background-color:#ceebf1 !important;} /* Moon White */
+.border-BG11 {border-color:#ceebf1 !important;} /* Moon White */
+
+.BG13 {color:#c4e7e9 !important;} /* Mint Green */
+.background-BG13 {background-color:#c4e7e9 !important;} /* Mint Green */
+.border-BG13 {border-color:#c4e7e9 !important;} /* Mint Green */
+
+.BG15 {color:#a0d9d2 !important;} /* Aqua */
+.background-BG15 {background-color:#a0d9d2 !important;} /* Aqua */
+.border-BG15 {border-color:#a0d9d2 !important;} /* Aqua */
+
+.BG18 {color:#37c0b0 !important;} /* Teal Blue */
+.background-BG18 {background-color:#37c0b0 !important;} /* Teal Blue */
+.border-BG18 {border-color:#37c0b0 !important;} /* Teal Blue */
+
+.BG23 {color:#bde5dd !important;} /* Coral Sea */
+.background-BG23 {background-color:#bde5dd !important;} /* Coral Sea */
+.border-BG23 {border-color:#bde5dd !important;} /* Coral Sea */
+
+.BG32 {color:#bce2d7 !important;} /* Aqua Mint */
+.background-BG32 {background-color:#bce2d7 !important;} /* Aqua Mint */
+.border-BG32 {border-color:#bce2d7 !important;} /* Aqua Mint */
+
+.BG34 {color:#a3dad7 !important;} /* Horizon Green */
+.background-BG34 {background-color:#a3dad7 !important;} /* Horizon Green */
+.border-BG34 {border-color:#a3dad7 !important;} /* Horizon Green */
+
+.BG45 {color:#afdfdf !important;} /* Nile Blue */
+.background-BG45 {background-color:#afdfdf !important;} /* Nile Blue */
+.border-BG45 {border-color:#afdfdf !important;} /* Nile Blue */
+
+.BG49 {color:#00b6b9 !important;} /* Duck Blue */
+.background-BG49 {background-color:#00b6b9 !important;} /* Duck Blue */
+.border-BG49 {border-color:#00b6b9 !important;} /* Duck Blue */
+
+.BG53 {color:#accfd1 !important;} /* Ice Mint */
+.background-BG53 {background-color:#accfd1 !important;} /* Ice Mint */
+.border-BG53 {border-color:#accfd1 !important;} /* Ice Mint */
+
+.BG57 {color:#64bebe !important;} /* Sketch Jasper */
+.background-BG57 {background-color:#64bebe !important;} /* Sketch Jasper */
+.border-BG57 {border-color:#64bebe !important;} /* Sketch Jasper */
+
+.BG70 {color:#daecee !important;} /* Ocean Mist */
+.background-BG70 {background-color:#daecee !important;} /* Ocean Mist */
+.border-BG70 {border-color:#daecee !important;} /* Ocean Mist */
+
+.BG72 {color:#74b8bb !important;} /* Ice Ocean */
+.background-BG72 {background-color:#74b8bb !important;} /* Ice Ocean */
+.border-BG72 {border-color:#74b8bb !important;} /* Ice Ocean */
+
+.BG75 {color:#59918e !important;} /* Abyss Green */
+.background-BG75 {background-color:#59918e !important;} /* Abyss Green */
+.border-BG75 {border-color:#59918e !important;} /* Abyss Green */
+
+.BG78 {color:#49706b !important;} /* Bronze */
+.background-BG78 {background-color:#49706b !important;} /* Bronze */
+.border-BG78 {border-color:#49706b !important;} /* Bronze */
+
+.BG90 {color:#e8ede7 !important;} /* Sketch Gray Sky */
+.background-BG90 {background-color:#e8ede7 !important;} /* Sketch Gray Sky */
+.border-BG90 {border-color:#e8ede7 !important;} /* Sketch Gray Sky */
+
+.BG93 {color:#bac1b9 !important;} /* Green Gray */
+.background-BG93 {background-color:#bac1b9 !important;} /* Green Gray */
+.border-BG93 {border-color:#bac1b9 !important;} /* Green Gray */
+
+.BG96 {color:#81a291 !important;} /* Bush */
+.background-BG96 {background-color:#81a291 !important;} /* Bush */
+.border-BG96 {border-color:#81a291 !important;} /* Bush */
+
+.BG99 {color:#6e9b87 !important;} /* Flagstone Blue */
+.background-BG99 {background-color:#6e9b87 !important;} /* Flagstone Blue */
+.border-BG99 {border-color:#6e9b87 !important;} /* Flagstone Blue */
+
+.BV0000 {color:#eae7f2 !important;} /* Sketch Pale Thistle */
+.background-BV0000 {background-color:#eae7f2 !important;} /* Sketch Pale Thistle */
+.border-BV0000 {border-color:#eae7f2 !important;} /* Sketch Pale Thistle */
+
+.BV000 {color:#eae7f2 !important;} /* Iridescent Mauve */
+.background-BV000 {background-color:#eae7f2 !important;} /* Iridescent Mauve */
+.border-BV000 {border-color:#eae7f2 !important;} /* Iridescent Mauve */
+
+.BV00 {color:#e0dced !important;} /* Mauve Shadow */
+.background-BV00 {background-color:#e0dced !important;} /* Mauve Shadow */
+.border-BV00 {border-color:#e0dced !important;} /* Mauve Shadow */
+
+.BV01 {color:#c4c9e6 !important;} /* Viola */
+.background-BV01 {background-color:#c4c9e6 !important;} /* Viola */
+.border-BV01 {border-color:#c4c9e6 !important;} /* Viola */
+
+.BV02 {color:#aab8db !important;} /* Prune */
+.background-BV02 {background-color:#aab8db !important;} /* Prune */
+.border-BV02 {border-color:#aab8db !important;} /* Prune */
+
+.BV04 {color:#7c97ce !important;} /* Blue Berry */
+.background-BV04 {background-color:#7c97ce !important;} /* Blue Berry */
+.border-BV04 {border-color:#7c97ce !important;} /* Blue Berry */
+
+.BV08 {color:#9d7eb9 !important;} /* Blue Violet */
+.background-BV08 {background-color:#9d7eb9 !important;} /* Blue Violet */
+.border-BV08 {border-color:#9d7eb9 !important;} /* Blue Violet */
+
+.BV11 {color:#d4d2e8 !important;} /* Soft Violet */
+.background-BV11 {background-color:#d4d2e8 !important;} /* Soft Violet */
+.border-BV11 {border-color:#d4d2e8 !important;} /* Soft Violet */
+
+.BV13 {color:#8491c8 !important;} /* Hydrangea Blue */
+.background-BV13 {background-color:#8491c8 !important;} /* Hydrangea Blue */
+.border-BV13 {border-color:#8491c8 !important;} /* Hydrangea Blue */
+
+.BV17 {color:#6e84bd !important;} /* Deep Reddish Blue */
+.background-BV17 {background-color:#6e84bd !important;} /* Deep Reddish Blue */
+.border-BV17 {border-color:#6e84bd !important;} /* Deep Reddish Blue */
+
+.BV20 {color:#cfdbf1 !important;} /* Dull Lavender */
+.background-BV20 {background-color:#cfdbf1 !important;} /* Dull Lavender */
+.border-BV20 {border-color:#cfdbf1 !important;} /* Dull Lavender */
+
+.BV23 {color:#b1c0dd !important;} /* Grayish Lavender */
+.background-BV23 {background-color:#b1c0dd !important;} /* Grayish Lavender */
+.border-BV23 {border-color:#b1c0dd !important;} /* Grayish Lavender */
+
+.BV25 {color:#8184a7 !important;} /* Grayish Violet */
+.background-BV25 {background-color:#8184a7 !important;} /* Grayish Violet */
+.border-BV25 {border-color:#8184a7 !important;} /* Grayish Violet */
+
+.BV29 {color:#384558 !important;} /* Slate */
+.background-BV29 {background-color:#384558 !important;} /* Slate */
+.border-BV29 {border-color:#384558 !important;} /* Slate */
+
+.BV31 {color:#eae7f2 !important;} /* Pale Lavender */
+.background-BV31 {background-color:#eae7f2 !important;} /* Pale Lavender */
+.border-BV31 {border-color:#eae7f2 !important;} /* Pale Lavender */
+
+.BV34 {color:#9fa7bc !important;} /* Sketch Bluebell */
+.background-BV34 {background-color:#9fa7bc !important;} /* Sketch Bluebell */
+.border-BV34 {border-color:#9fa7bc !important;} /* Sketch Bluebell */
+
+.C00 {color:#e8f0f3 !important;} /* Cool Gray */
+.background-C00 {background-color:#e8f0f3 !important;} /* Cool Gray */
+.border-C00 {border-color:#e8f0f3 !important;} /* Cool Gray */
+
+.C0 {color:#e0e7ed !important;} /* Cool Gray */
+.background-C0 {background-color:#e0e7ed !important;} /* Cool Gray */
+.border-C0 {border-color:#e0e7ed !important;} /* Cool Gray */
+
+.C10 {color:#202b31 !important;} /* Cool Gray */
+.background-C10 {background-color:#202b31 !important;} /* Cool Gray */
+.border-C10 {border-color:#202b31 !important;} /* Cool Gray */
+
+.C1 {color:#dae3e8 !important;} /* Cool Gray No. 1 */
+.background-C1 {background-color:#dae3e8 !important;} /* Cool Gray No. 1 */
+.border-C1 {border-color:#dae3e8 !important;} /* Cool Gray No. 1 */
+
+.C2 {color:#ccd7dd !important;} /* Cool Gray */
+.background-C2 {background-color:#ccd7dd !important;} /* Cool Gray */
+.border-C2 {border-color:#ccd7dd !important;} /* Cool Gray */
+
+.C3 {color:#c1ccd2 !important;} /* Cool Gray No. 3 */
+.background-C3 {background-color:#c1ccd2 !important;} /* Cool Gray No. 3 */
+.border-C3 {border-color:#c1ccd2 !important;} /* Cool Gray No. 3 */
+
+.C4 {color:#a6b4bd !important;} /* Cool Gray */
+.background-C4 {background-color:#a6b4bd !important;} /* Cool Gray */
+.border-C4 {border-color:#a6b4bd !important;} /* Cool Gray */
+
+.C5 {color:#92a0ab !important;} /* Cool Gray No. 5 */
+.background-C5 {background-color:#92a0ab !important;} /* Cool Gray No. 5 */
+.border-C5 {border-color:#92a0ab !important;} /* Cool Gray No. 5 */
+
+.C6 {color:#7b8c96 !important;} /* Cool Gray */
+.background-C6 {background-color:#7b8c96 !important;} /* Cool Gray */
+.border-C6 {border-color:#7b8c96 !important;} /* Cool Gray */
+
+.C7 {color:#637079 !important;} /* Cool Gray No. 7 */
+.background-C7 {background-color:#637079 !important;} /* Cool Gray No. 7 */
+.border-C7 {border-color:#637079 !important;} /* Cool Gray No. 7 */
+
+.C8 {color:#535d66 !important;} /* Cool Gray */
+.background-C8 {background-color:#535d66 !important;} /* Cool Gray */
+.border-C8 {border-color:#535d66 !important;} /* Cool Gray */
+
+.C9 {color:#3c474d !important;} /* Cool Gray */
+.background-C9 {background-color:#3c474d !important;} /* Cool Gray */
+.border-C9 {border-color:#3c474d !important;} /* Cool Gray */
+
+.E0000 {color:#fffaf4 !important;} /* Floral White */
+.background-E0000 {background-color:#fffaf4 !important;} /* Floral White */
+.border-E0000 {border-color:#fffaf4 !important;} /* Floral White */
+
+.E000 {color:#fef5ee !important;} /* Pale Fruit Pink */
+.background-E000 {background-color:#fef5ee !important;} /* Pale Fruit Pink */
+.border-E000 {border-color:#fef5ee !important;} /* Pale Fruit Pink */
+
+.E00 {color:#fdf3ea !important;} /* Cotton Pearl */
+.background-E00 {background-color:#fdf3ea !important;} /* Cotton Pearl */
+.border-E00 {border-color:#fdf3ea !important;} /* Cotton Pearl */
+
+.E01 {color:#ffeee4 !important;} /* Pink Flamingo */
+.background-E01 {background-color:#ffeee4 !important;} /* Pink Flamingo */
+.border-E01 {border-color:#ffeee4 !important;} /* Pink Flamingo */
+
+.E02 {color:#feece0 !important;} /* Fruit Pink */
+.background-E02 {background-color:#feece0 !important;} /* Fruit Pink */
+.border-E02 {border-color:#feece0 !important;} /* Fruit Pink */
+
+.E04 {color:#e4bcc4 !important;} /* Lipstick Natural */
+.background-E04 {background-color:#e4bcc4 !important;} /* Lipstick Natural */
+.border-E04 {border-color:#e4bcc4 !important;} /* Lipstick Natural */
+
+.E07 {color:#cc816a !important;} /* Light Mahogany */
+.background-E07 {background-color:#cc816a !important;} /* Light Mahogany */
+.border-E07 {border-color:#cc816a !important;} /* Light Mahogany */
+
+.E08 {color:#ca6553 !important;} /* Brown */
+.background-E08 {background-color:#ca6553 !important;} /* Brown */
+.border-E08 {border-color:#ca6553 !important;} /* Brown */
+
+.E09 {color:#d96a4f !important;} /* Burnt Sienna */
+.background-E09 {background-color:#d96a4f !important;} /* Burnt Sienna */
+.border-E09 {border-color:#d96a4f !important;} /* Burnt Sienna */
+
+.E11 {color:#fee9d6 !important;} /* Barley Beige */
+.background-E11 {background-color:#fee9d6 !important;} /* Barley Beige */
+.border-E11 {border-color:#fee9d6 !important;} /* Barley Beige */
+
+.E13 {color:#e9c5af !important;} /* Light Suntan */
+.background-E13 {background-color:#e9c5af !important;} /* Light Suntan */
+.border-E13 {border-color:#e9c5af !important;} /* Light Suntan */
+
+.E15 {color:#fbbb8d !important;} /* Dark Suntan */
+.background-E15 {background-color:#fbbb8d !important;} /* Dark Suntan */
+.border-E15 {border-color:#fbbb8d !important;} /* Dark Suntan */
+
+.E17 {color:#b85f57 !important;} /* Reddish Brass */
+.background-E17 {background-color:#b85f57 !important;} /* Reddish Brass */
+.border-E17 {border-color:#b85f57 !important;} /* Reddish Brass */
+
+.E18 {color:#88534d !important;} /* Copper */
+.background-E18 {background-color:#88534d !important;} /* Copper */
+.border-E18 {border-color:#88534d !important;} /* Copper */
+
+.E19 {color:#c45238 !important;} /* Redwood */
+.background-E19 {background-color:#c45238 !important;} /* Redwood */
+.border-E19 {border-color:#c45238 !important;} /* Redwood */
+
+.E21 {color:#fde2c7 !important;} /* Soft Sun */
+.background-E21 {background-color:#fde2c7 !important;} /* Soft Sun */
+.border-E21 {border-color:#fde2c7 !important;} /* Soft Sun */
+
+.E23 {color:#eccab1 !important;} /* Hazelnut */
+.background-E23 {background-color:#eccab1 !important;} /* Hazelnut */
+.border-E23 {border-color:#eccab1 !important;} /* Hazelnut */
+
+.E25 {color:#d2a482 !important;} /* Caribe Cocoa */
+.background-E25 {background-color:#d2a482 !important;} /* Caribe Cocoa */
+.border-E25 {border-color:#d2a482 !important;} /* Caribe Cocoa */
+
+.E27 {color:#997663 !important;} /* Milk Chocolate */
+.background-E27 {background-color:#997663 !important;} /* Milk Chocolate */
+.border-E27 {border-color:#997663 !important;} /* Milk Chocolate */
+
+.E29 {color:#884636 !important;} /* Burnt Umber */
+.background-E29 {background-color:#884636 !important;} /* Burnt Umber */
+.border-E29 {border-color:#884636 !important;} /* Burnt Umber */
+
+.E30 {color:#f7f0d6 !important;} /* Bisque */
+.background-E30 {background-color:#f7f0d6 !important;} /* Bisque */
+.border-E30 {border-color:#f7f0d6 !important;} /* Bisque */
+
+.E31 {color:#f2e6ce !important;} /* Brick Beige */
+.background-E31 {background-color:#f2e6ce !important;} /* Brick Beige */
+.border-E31 {border-color:#f2e6ce !important;} /* Brick Beige */
+
+.E33 {color:#f3d2b1 !important;} /* Sand */
+.background-E33 {background-color:#f3d2b1 !important;} /* Sand */
+.border-E33 {border-color:#f3d2b1 !important;} /* Sand */
+
+.E34 {color:#f0caa6 !important;} /* Toast */
+.background-E34 {background-color:#f0caa6 !important;} /* Toast */
+.border-E34 {border-color:#f0caa6 !important;} /* Toast */
+
+.E35 {color:#e6c3a3 !important;} /* Chamois */
+.background-E35 {background-color:#e6c3a3 !important;} /* Chamois */
+.border-E35 {border-color:#e6c3a3 !important;} /* Chamois */
+
+.E37 {color:#cc9159 !important;} /* Sepia */
+.background-E37 {background-color:#cc9159 !important;} /* Sepia */
+.border-E37 {border-color:#cc9159 !important;} /* Sepia */
+
+.E39 {color:#c5743f !important;} /* Leather */
+.background-E39 {background-color:#c5743f !important;} /* Leather */
+.border-E39 {border-color:#c5743f !important;} /* Leather */
+
+.E40 {color:#f2e8dc !important;} /* Brick White */
+.background-E40 {background-color:#f2e8dc !important;} /* Brick White */
+.border-E40 {border-color:#f2e8dc !important;} /* Brick White */
+
+.E41 {color:#fef1e1 !important;} /* Pearl White */
+.background-E41 {background-color:#fef1e1 !important;} /* Pearl White */
+.border-E41 {border-color:#fef1e1 !important;} /* Pearl White */
+
+.E42 {color:#f3ead9 !important;} /* Sand White */
+.background-E42 {background-color:#f3ead9 !important;} /* Sand White */
+.border-E42 {border-color:#f3ead9 !important;} /* Sand White */
+
+.E43 {color:#e8dabd !important;} /* Dull Ivory */
+.background-E43 {background-color:#e8dabd !important;} /* Dull Ivory */
+.border-E43 {border-color:#e8dabd !important;} /* Dull Ivory */
+
+.E44 {color:#c5b9a9 !important;} /* Clay */
+.background-E44 {background-color:#c5b9a9 !important;} /* Clay */
+.border-E44 {border-color:#c5b9a9 !important;} /* Clay */
+
+.E47 {color:#8a6e59 !important;} /* Dark Brown */
+.background-E47 {background-color:#8a6e59 !important;} /* Dark Brown */
+.border-E47 {border-color:#8a6e59 !important;} /* Dark Brown */
+
+.E49 {color:#634c3c !important;} /* Dark Bark */
+.background-E49 {background-color:#634c3c !important;} /* Dark Bark */
+.border-E49 {border-color:#634c3c !important;} /* Dark Bark */
+
+.E50 {color:#f4ebf0 !important;} /* Egg Shell */
+.background-E50 {background-color:#f4ebf0 !important;} /* Egg Shell */
+.border-E50 {border-color:#f4ebf0 !important;} /* Egg Shell */
+
+.E51 {color:#feecd6 !important;} /* Milky White */
+.background-E51 {background-color:#feecd6 !important;} /* Milky White */
+.border-E51 {border-color:#feecd6 !important;} /* Milky White */
+
+.E53 {color:#f3e6c3 !important;} /* Raw Silk */
+.background-E53 {background-color:#f3e6c3 !important;} /* Raw Silk */
+.border-E53 {border-color:#f3e6c3 !important;} /* Raw Silk */
+
+.E55 {color:#f1dfb9 !important;} /* Light Camel */
+.background-E55 {background-color:#f1dfb9 !important;} /* Light Camel */
+.border-E55 {border-color:#f1dfb9 !important;} /* Light Camel */
+
+.E57 {color:#b18558 !important;} /* Light Walnut */
+.background-E57 {background-color:#b18558 !important;} /* Light Walnut */
+.border-E57 {border-color:#b18558 !important;} /* Light Walnut */
+
+.E59 {color:#9a7f6c !important;} /* Walnut */
+.background-E59 {background-color:#9a7f6c !important;} /* Walnut */
+.border-E59 {border-color:#9a7f6c !important;} /* Walnut */
+
+.E70 {color:#efeae6 !important;} /* Ash Rose */
+.background-E70 {background-color:#efeae6 !important;} /* Ash Rose */
+.border-E70 {border-color:#efeae6 !important;} /* Ash Rose */
+
+.E71 {color:#e2d7d3 !important;} /* Champagne */
+.background-E71 {background-color:#e2d7d3 !important;} /* Champagne */
+.border-E71 {border-color:#e2d7d3 !important;} /* Champagne */
+
+.E74 {color:#a1847c !important;} /* Cocoa Brown */
+.background-E74 {background-color:#a1847c !important;} /* Cocoa Brown */
+.border-E74 {border-color:#a1847c !important;} /* Cocoa Brown */
+
+.E77 {color:#7f604e !important;} /* Maroon */
+.background-E77 {background-color:#7f604e !important;} /* Maroon */
+.border-E77 {border-color:#7f604e !important;} /* Maroon */
+
+.E79 {color:#4a2c22 !important;} /* Cashew */
+.background-E79 {background-color:#4a2c22 !important;} /* Cashew */
+.border-E79 {border-color:#4a2c22 !important;} /* Cashew */
+
+.E81 {color:#f0e6c2 !important;} /* Ivory */
+.background-E81 {background-color:#f0e6c2 !important;} /* Ivory */
+.border-E81 {border-color:#f0e6c2 !important;} /* Ivory */
+
+.E84 {color:#ae9f80 !important;} /* - Sketch Khaki */
+.background-E84 {background-color:#ae9f80 !important;} /* - Sketch Khaki */
+.border-E84 {border-color:#ae9f80 !important;} /* - Sketch Khaki */
+
+.E87 {color:#6f604d !important;} /* Fig */
+.background-E87 {background-color:#6f604d !important;} /* Fig */
+.border-E87 {border-color:#6f604d !important;} /* Fig */
+
+.E89 {color:#5a4939 !important;} /* - Sketch Pecan */
+.background-E89 {background-color:#5a4939 !important;} /* - Sketch Pecan */
+.border-E89 {border-color:#5a4939 !important;} /* - Sketch Pecan */
+
+.E93 {color:#fed2b9 !important;} /* Tea Rose */
+.background-E93 {background-color:#fed2b9 !important;} /* Tea Rose */
+.border-E93 {border-color:#fed2b9 !important;} /* Tea Rose */
+
+.E95 {color:#fcbc7e !important;} /* Tea Orange */
+.background-E95 {background-color:#fcbc7e !important;} /* Tea Orange */
+.border-E95 {border-color:#fcbc7e !important;} /* Tea Orange */
+
+.E97 {color:#ed9c5d !important;} /* Deep Orange */
+.background-E97 {background-color:#ed9c5d !important;} /* Deep Orange */
+.border-E97 {border-color:#ed9c5d !important;} /* Deep Orange */
+
+.E99 {color:#b46034 !important;} /* Baked Clay */
+.background-E99 {background-color:#b46034 !important;} /* Baked Clay */
+.border-E99 {border-color:#b46034 !important;} /* Baked Clay */
+
+.FB2 {color:#058fd0 !important;} /* Fluorescent Dull Blue */
+.background-FB2 {background-color:#058fd0 !important;} /* Fluorescent Dull Blue */
+.border-FB2 {border-color:#058fd0 !important;} /* Fluorescent Dull Blue */
+
+.FBG2 {color:#62cbe8 !important;} /* Fluorescent Dull Blue Green */
+.background-FBG2 {background-color:#62cbe8 !important;} /* Fluorescent Dull Blue Green */
+.border-FBG2 {border-color:#62cbe8 !important;} /* Fluorescent Dull Blue Green */
+
+.FRV1 {color:#f5a3c7 !important;} /* Fluorescent Pink */
+.background-FRV1 {background-color:#f5a3c7 !important;} /* Fluorescent Pink */
+.border-FRV1 {border-color:#f5a3c7 !important;} /* Fluorescent Pink */
+
+.FV2 {color:#7f74b6 !important;} /* Fluorescent Dull Violet */
+.background-FV2 {background-color:#7f74b6 !important;} /* Fluorescent Dull Violet */
+.border-FV2 {border-color:#7f74b6 !important;} /* Fluorescent Dull Violet */
+
+.FY1 {color:#fff697 !important;} /* Fluorescent Yellow Orange */
+.background-FY1 {background-color:#fff697 !important;} /* Fluorescent Yellow Orange */
+.border-FY1 {border-color:#fff697 !important;} /* Fluorescent Yellow Orange */
+
+.FYG1 {color:#9ecd43 !important;} /* Fluorescent Yellow */
+.background-FYG1 {background-color:#9ecd43 !important;} /* Fluorescent Yellow */
+.border-FYG1 {border-color:#9ecd43 !important;} /* Fluorescent Yellow */
+
+.FYG2 {color:#9ecd43 !important;} /* Fluorescent Dull Yellow Green */
+.background-FYG2 {background-color:#9ecd43 !important;} /* Fluorescent Dull Yellow Green */
+.border-FYG2 {border-color:#9ecd43 !important;} /* Fluorescent Dull Yellow Green */
+
+.FYR1 {color:#fecc99 !important;} /* Fluorescent Orange */
+.background-FYR1 {background-color:#fecc99 !important;} /* Fluorescent Orange */
+.border-FYR1 {border-color:#fecc99 !important;} /* Fluorescent Orange */
+
+.G0000 {color:#f1f7f3 !important;} /* Crystal Opal */
+.background-G0000 {background-color:#f1f7f3 !important;} /* Crystal Opal */
+.border-G0000 {border-color:#f1f7f3 !important;} /* Crystal Opal */
+
+.G000 {color:#eaf5ed !important;} /* Pale Green */
+.background-G000 {background-color:#eaf5ed !important;} /* Pale Green */
+.border-G000 {border-color:#eaf5ed !important;} /* Pale Green */
+
+.G00 {color:#e3f2ed !important;} /* Jade Green */
+.background-G00 {background-color:#e3f2ed !important;} /* Jade Green */
+.border-G00 {border-color:#e3f2ed !important;} /* Jade Green */
+
+.G02 {color:#cfe8d3 !important;} /* Spectrum Green */
+.background-G02 {background-color:#cfe8d3 !important;} /* Spectrum Green */
+.border-G02 {border-color:#cfe8d3 !important;} /* Spectrum Green */
+
+.G03 {color:#b6da9c !important;} /* Meadow Green */
+.background-G03 {background-color:#b6da9c !important;} /* Meadow Green */
+.border-G03 {border-color:#b6da9c !important;} /* Meadow Green */
+
+.G05 {color:#69c07b !important;} /* Emerald Green */
+.background-G05 {background-color:#69c07b !important;} /* Emerald Green */
+.border-G05 {border-color:#69c07b !important;} /* Emerald Green */
+
+.G07 {color:#7bc576 !important;} /* Nile Green */
+.background-G07 {background-color:#7bc576 !important;} /* Nile Green */
+.border-G07 {border-color:#7bc576 !important;} /* Nile Green */
+
+.G09 {color:#7ac465 !important;} /* Veronese Green */
+.background-G09 {background-color:#7ac465 !important;} /* Veronese Green */
+.border-G09 {border-color:#7ac465 !important;} /* Veronese Green */
+
+.G12 {color:#d2e8c4 !important;} /* Sea Green */
+.background-G12 {background-color:#d2e8c4 !important;} /* Sea Green */
+.border-G12 {border-color:#d2e8c4 !important;} /* Sea Green */
+
+.G14 {color:#97cf90 !important;} /* Apple Green */
+.background-G14 {background-color:#97cf90 !important;} /* Apple Green */
+.border-G14 {border-color:#97cf90 !important;} /* Apple Green */
+
+.G16 {color:#60c198 !important;} /* Malachite */
+.background-G16 {background-color:#60c198 !important;} /* Malachite */
+.border-G16 {border-color:#60c198 !important;} /* Malachite */
+
+.G17 {color:#14b37d !important;} /* Forest Green */
+.background-G17 {background-color:#14b37d !important;} /* Forest Green */
+.border-G17 {border-color:#14b37d !important;} /* Forest Green */
+
+.G19 {color:#2db98a !important;} /* Bright Parrot Green */
+.background-G19 {background-color:#2db98a !important;} /* Bright Parrot Green */
+.border-G19 {border-color:#2db98a !important;} /* Bright Parrot Green */
+
+.G20 {color:#edf6db !important;} /* Wax White */
+.background-G20 {background-color:#edf6db !important;} /* Wax White */
+.border-G20 {border-color:#edf6db !important;} /* Wax White */
+
+.G21 {color:#c4e4cd !important;} /* Lime Green */
+.background-G21 {background-color:#c4e4cd !important;} /* Lime Green */
+.border-G21 {border-color:#c4e4cd !important;} /* Lime Green */
+
+.G24 {color:#c3e0b4 !important;} /* Willow */
+.background-G24 {background-color:#c3e0b4 !important;} /* Willow */
+.border-G24 {border-color:#c3e0b4 !important;} /* Willow */
+
+.G28 {color:#119462 !important;} /* Ocean Green */
+.background-G28 {background-color:#119462 !important;} /* Ocean Green */
+.border-G28 {border-color:#119462 !important;} /* Ocean Green */
+
+.G29 {color:#197c5d !important;} /* Pine Tree Green */
+.background-G29 {background-color:#197c5d !important;} /* Pine Tree Green */
+.border-G29 {border-color:#197c5d !important;} /* Pine Tree Green */
+
+.G40 {color:#e4f1df !important;} /* Dim Green */
+.background-G40 {background-color:#e4f1df !important;} /* Dim Green */
+.border-G40 {border-color:#e4f1df !important;} /* Dim Green */
+
+.G43 {color:#d7e7a8 !important;} /* Various Pistachio */
+.background-G43 {background-color:#d7e7a8 !important;} /* Various Pistachio */
+.border-G43 {border-color:#d7e7a8 !important;} /* Various Pistachio */
+
+.G46 {color:#579e74 !important;} /* Sketch Mistletoe */
+.background-G46 {background-color:#579e74 !important;} /* Sketch Mistletoe */
+.border-G46 {border-color:#579e74 !important;} /* Sketch Mistletoe */
+
+.G82 {color:#ccdab9 !important;} /* Spring Dim Green */
+.background-G82 {background-color:#ccdab9 !important;} /* Spring Dim Green */
+.border-G82 {border-color:#ccdab9 !important;} /* Spring Dim Green */
+
+.G85 {color:#9dc3aa !important;} /* Verdigris */
+.background-G85 {background-color:#9dc3aa !important;} /* Verdigris */
+.border-G85 {border-color:#9dc3aa !important;} /* Verdigris */
+
+.G94 {color:#98a786 !important;} /* Grayish Olive */
+.background-G94 {background-color:#98a786 !important;} /* Grayish Olive */
+.border-G94 {border-color:#98a786 !important;} /* Grayish Olive */
+
+.G99 {color:#5f7e3a !important;} /* Olive */
+.background-G99 {background-color:#5f7e3a !important;} /* Olive */
+.border-G99 {border-color:#5f7e3a !important;} /* Olive */
+
+.N0 {color:#eceeed !important;} /* Neutral Gray */
+.background-N0 {background-color:#eceeed !important;} /* Neutral Gray */
+.border-N0 {border-color:#eceeed !important;} /* Neutral Gray */
+
+.N10 {color:#312f30 !important;} /* Neutral Gray */
+.background-N10 {background-color:#312f30 !important;} /* Neutral Gray */
+.border-N10 {border-color:#312f30 !important;} /* Neutral Gray */
+
+.N1 {color:#e2e3e5 !important;} /* Neutral Gray */
+.background-N1 {background-color:#e2e3e5 !important;} /* Neutral Gray */
+.border-N1 {border-color:#e2e3e5 !important;} /* Neutral Gray */
+
+.N2 {color:#dadbdd !important;} /* Neutral Gray */
+.background-N2 {background-color:#dadbdd !important;} /* Neutral Gray */
+.border-N2 {border-color:#dadbdd !important;} /* Neutral Gray */
+
+.N3 {color:#d1d2d4 !important;} /* Neutral Gray */
+.background-N3 {background-color:#d1d2d4 !important;} /* Neutral Gray */
+.border-N3 {border-color:#d1d2d4 !important;} /* Neutral Gray */
+
+.N4 {color:#bcbdc1 !important;} /* Neutral Gray */
+.background-N4 {background-color:#bcbdc1 !important;} /* Neutral Gray */
+.border-N4 {border-color:#bcbdc1 !important;} /* Neutral Gray */
+
+.N5 {color:#a8a9ad !important;} /* Neutral Gray */
+.background-N5 {background-color:#a8a9ad !important;} /* Neutral Gray */
+.border-N5 {border-color:#a8a9ad !important;} /* Neutral Gray */
+
+.N6 {color:#949599 !important;} /* Neutral Gray */
+.background-N6 {background-color:#949599 !important;} /* Neutral Gray */
+.border-N6 {border-color:#949599 !important;} /* Neutral Gray */
+
+.N7 {color:#77787c !important;} /* Neutral Gray */
+.background-N7 {background-color:#77787c !important;} /* Neutral Gray */
+.border-N7 {border-color:#77787c !important;} /* Neutral Gray */
+
+.N8 {color:#636466 !important;} /* Neutral Gray */
+.background-N8 {background-color:#636466 !important;} /* Neutral Gray */
+.border-N8 {border-color:#636466 !important;} /* Neutral Gray */
+
+.N9 {color:#4c4d4f !important;} /* Neutral Gray */
+.background-N9 {background-color:#4c4d4f !important;} /* Neutral Gray */
+.border-N9 {border-color:#4c4d4f !important;} /* Neutral Gray */
+
+.R0000 {color:#fef3ef !important;} /* Pink Beryl */
+.background-R0000 {background-color:#fef3ef !important;} /* Pink Beryl */
+.border-R0000 {border-color:#fef3ef !important;} /* Pink Beryl */
+
+.R000 {color:#fef0e7 !important;} /* Cherry White */
+.background-R000 {background-color:#fef0e7 !important;} /* Cherry White */
+.border-R000 {border-color:#fef0e7 !important;} /* Cherry White */
+
+.R00 {color:#feeae1 !important;} /* Pinkish White */
+.background-R00 {background-color:#feeae1 !important;} /* Pinkish White */
+.border-R00 {border-color:#feeae1 !important;} /* Pinkish White */
+
+.R01 {color:#fde0d8 !important;} /* Pinkish Vanilla */
+.background-R01 {background-color:#fde0d8 !important;} /* Pinkish Vanilla */
+.border-R01 {border-color:#fde0d8 !important;} /* Pinkish Vanilla */
+
+.R02 {color:#fdd3c7 !important;} /* Rose Salmon */
+.background-R02 {background-color:#fdd3c7 !important;} /* Rose Salmon */
+.border-R02 {border-color:#fdd3c7 !important;} /* Rose Salmon */
+
+.R05 {color:#f6927b !important;} /* Salmon Red */
+.background-R05 {background-color:#f6927b !important;} /* Salmon Red */
+.border-R05 {border-color:#f6927b !important;} /* Salmon Red */
+
+.R08 {color:#f26754 !important;} /* Vermilion */
+.background-R08 {background-color:#f26754 !important;} /* Vermilion */
+.border-R08 {border-color:#f26754 !important;} /* Vermilion */
+
+.R11 {color:#fde1d5 !important;} /* Pale Cherry Pink */
+.background-R11 {background-color:#fde1d5 !important;} /* Pale Cherry Pink */
+.border-R11 {border-color:#fde1d5 !important;} /* Pale Cherry Pink */
+
+.R12 {color:#fcd3c1 !important;} /* Light Tea Rose */
+.background-R12 {background-color:#fcd3c1 !important;} /* Light Tea Rose */
+.border-R12 {border-color:#fcd3c1 !important;} /* Light Tea Rose */
+
+.R14 {color:#f59b92 !important;} /* Light Rouge */
+.background-R14 {background-color:#f59b92 !important;} /* Light Rouge */
+.border-R14 {border-color:#f59b92 !important;} /* Light Rouge */
+
+.R17 {color:#f4846c !important;} /* Lipstick Orange */
+.background-R17 {background-color:#f4846c !important;} /* Lipstick Orange */
+.border-R17 {border-color:#f4846c !important;} /* Lipstick Orange */
+
+.R20 {color:#fcd7cf !important;} /* Blush */
+.background-R20 {background-color:#fcd7cf !important;} /* Blush */
+.border-R20 {border-color:#fcd7cf !important;} /* Blush */
+
+.R21 {color:#fac1b6 !important;} /* Sardonyx */
+.background-R21 {background-color:#fac1b6 !important;} /* Sardonyx */
+.border-R21 {border-color:#fac1b6 !important;} /* Sardonyx */
+
+.R22 {color:#f8b7b1 !important;} /* Light Prawn */
+.background-R22 {background-color:#f8b7b1 !important;} /* Light Prawn */
+.border-R22 {border-color:#f8b7b1 !important;} /* Light Prawn */
+
+.R24 {color:#f27579 !important;} /* Prawn */
+.background-R24 {background-color:#f27579 !important;} /* Prawn */
+.border-R24 {border-color:#f27579 !important;} /* Prawn */
+
+.R27 {color:#f15062 !important;} /* Cadmium Red */
+.background-R27 {background-color:#f15062 !important;} /* Cadmium Red */
+.border-R27 {border-color:#f15062 !important;} /* Cadmium Red */
+
+.R29 {color:#ed174b !important;} /* Lipstick Red */
+.background-R29 {background-color:#ed174b !important;} /* Lipstick Red */
+.border-R29 {border-color:#ed174b !important;} /* Lipstick Red */
+
+.R30 {color:#fce3df !important;} /* Pale Yellowish Pink */
+.background-R30 {background-color:#fce3df !important;} /* Pale Yellowish Pink */
+.border-R30 {border-color:#fce3df !important;} /* Pale Yellowish Pink */
+
+.R32 {color:#fac1ba !important;} /* Peach */
+.background-R32 {background-color:#fac1ba !important;} /* Peach */
+.border-R32 {border-color:#fac1ba !important;} /* Peach */
+
+.R35 {color:#f27185 !important;} /* Coral */
+.background-R35 {background-color:#f27185 !important;} /* Coral */
+.border-R35 {border-color:#f27185 !important;} /* Coral */
+
+.R37 {color:#e86c74 !important;} /* Carmine */
+.background-R37 {background-color:#e86c74 !important;} /* Carmine */
+.border-R37 {border-color:#e86c74 !important;} /* Carmine */
+
+.R39 {color:#cb487a !important;} /* Garnet */
+.background-R39 {background-color:#cb487a !important;} /* Garnet */
+.border-R39 {border-color:#cb487a !important;} /* Garnet */
+
+.R43 {color:#ee848e !important;} /* Bougainvillaea */
+.background-R43 {background-color:#ee848e !important;} /* Bougainvillaea */
+.border-R43 {border-color:#ee848e !important;} /* Bougainvillaea */
+
+.R46 {color:#e04d69 !important;} /* Strong Red */
+.background-R46 {background-color:#e04d69 !important;} /* Strong Red */
+.border-R46 {border-color:#e04d69 !important;} /* Strong Red */
+
+.R56 {color:#d27c95 !important;} /* Currant */
+.background-R56 {background-color:#d27c95 !important;} /* Currant */
+.border-R56 {border-color:#d27c95 !important;} /* Currant */
+
+.R59 {color:#b74f70 !important;} /* Cardinal */
+.background-R59 {background-color:#b74f70 !important;} /* Cardinal */
+.border-R59 {border-color:#b74f70 !important;} /* Cardinal */
+
+.R81 {color:#f1c8d6 !important;} /* Rose Pink */
+.background-R81 {background-color:#f1c8d6 !important;} /* Rose Pink */
+.border-R81 {border-color:#f1c8d6 !important;} /* Rose Pink */
+
+.R83 {color:#f19cb9 !important;} /* Rose Mist */
+.background-R83 {background-color:#f19cb9 !important;} /* Rose Mist */
+.border-R83 {border-color:#f19cb9 !important;} /* Rose Mist */
+
+.R85 {color:#d36a93 !important;} /* Rose Red */
+.background-R85 {background-color:#d36a93 !important;} /* Rose Red */
+.border-R85 {border-color:#d36a93 !important;} /* Rose Red */
+
+.R89 {color:#7d2b42 !important;} /* Dark Red */
+.background-R89 {background-color:#7d2b42 !important;} /* Dark Red */
+.border-R89 {border-color:#7d2b42 !important;} /* Dark Red */
+
+.RV0000 {color:#f2eaf5 !important;} /* Evening Primrose */
+.background-RV0000 {background-color:#f2eaf5 !important;} /* Evening Primrose */
+.border-RV0000 {border-color:#f2eaf5 !important;} /* Evening Primrose */
+
+.RV000 {color:#f4e2ee !important;} /* Pale Purple */
+.background-RV000 {background-color:#f4e2ee !important;} /* Pale Purple */
+.border-RV000 {border-color:#f4e2ee !important;} /* Pale Purple */
+
+.RV00 {color:#f1daea !important;} /* Water Lily */
+.background-RV00 {background-color:#f1daea !important;} /* Water Lily */
+.border-RV00 {border-color:#f1daea !important;} /* Water Lily */
+
+.RV02 {color:#fad5e6 !important;} /* Sugared Almond Pink */
+.background-RV02 {background-color:#fad5e6 !important;} /* Sugared Almond Pink */
+.border-RV02 {border-color:#fad5e6 !important;} /* Sugared Almond Pink */
+
+.RV04 {color:#f6a3bf !important;} /* Shock  Pink */
+.background-RV04 {background-color:#f6a3bf !important;} /* Shock  Pink */
+.border-RV04 {border-color:#f6a3bf !important;} /* Shock  Pink */
+
+.RV06 {color:#f386af !important;} /* Cerise */
+.background-RV06 {background-color:#f386af !important;} /* Cerise */
+.border-RV06 {border-color:#f386af !important;} /* Cerise */
+
+.RV09 {color:#e171ac !important;} /* Fuchsia */
+.background-RV09 {background-color:#e171ac !important;} /* Fuchsia */
+.border-RV09 {border-color:#e171ac !important;} /* Fuchsia */
+
+.RV10 {color:#fdecf4 !important;} /* Pale Pink */
+.background-RV10 {background-color:#fdecf4 !important;} /* Pale Pink */
+.border-RV10 {border-color:#fdecf4 !important;} /* Pale Pink */
+
+.RV11 {color:#fbd6dd !important;} /* Pink */
+.background-RV11 {background-color:#fbd6dd !important;} /* Pink */
+.border-RV11 {border-color:#fbd6dd !important;} /* Pink */
+
+.RV13 {color:#f9c9d7 !important;} /* Tender Pink */
+.background-RV13 {background-color:#f9c9d7 !important;} /* Tender Pink */
+.border-RV13 {border-color:#f9c9d7 !important;} /* Tender Pink */
+
+.RV14 {color:#f495b7 !important;} /* Begonia Pink */
+.background-RV14 {background-color:#f495b7 !important;} /* Begonia Pink */
+.border-RV14 {border-color:#f495b7 !important;} /* Begonia Pink */
+
+.RV17 {color:#db7eb3 !important;} /* Deep Magenta */
+.background-RV17 {background-color:#db7eb3 !important;} /* Deep Magenta */
+.border-RV17 {border-color:#db7eb3 !important;} /* Deep Magenta */
+
+.RV19 {color:#d268aa !important;} /* Red Violet */
+.background-RV19 {background-color:#d268aa !important;} /* Red Violet */
+.border-RV19 {border-color:#d268aa !important;} /* Red Violet */
+
+.RV21 {color:#fde8e7 !important;} /* Light Pink */
+.background-RV21 {background-color:#fde8e7 !important;} /* Light Pink */
+.border-RV21 {border-color:#fde8e7 !important;} /* Light Pink */
+
+.RV23 {color:#f8bac9 !important;} /* Pure Pink */
+.background-RV23 {background-color:#f8bac9 !important;} /* Pure Pink */
+.border-RV23 {border-color:#f8bac9 !important;} /* Pure Pink */
+
+.RV25 {color:#f493be !important;} /* Dog Rose Flower */
+.background-RV25 {background-color:#f493be !important;} /* Dog Rose Flower */
+.border-RV25 {border-color:#f493be !important;} /* Dog Rose Flower */
+
+.RV29 {color:#ef4880 !important;} /* Crimson */
+.background-RV29 {background-color:#ef4880 !important;} /* Crimson */
+.border-RV29 {border-color:#ef4880 !important;} /* Crimson */
+
+.RV32 {color:#fad3ce !important;} /* Shadow Pink */
+.background-RV32 {background-color:#fad3ce !important;} /* Shadow Pink */
+.border-RV32 {border-color:#fad3ce !important;} /* Shadow Pink */
+
+.RV34 {color:#f9afae !important;} /* Dark Pink */
+.background-RV34 {background-color:#f9afae !important;} /* Dark Pink */
+.border-RV34 {border-color:#f9afae !important;} /* Dark Pink */
+
+.RV42 {color:#f8bbb6 !important;} /* Salmon Pink */
+.background-RV42 {background-color:#f8bbb6 !important;} /* Salmon Pink */
+.border-RV42 {border-color:#f8bbb6 !important;} /* Salmon Pink */
+
+.RV52 {color:#f9cade !important;} /* Various Cotton Candy */
+.background-RV52 {background-color:#f9cade !important;} /* Various Cotton Candy */
+.border-RV52 {border-color:#f9cade !important;} /* Various Cotton Candy */
+
+.RV55 {color:#e9a5ca !important;} /* Hollyhock */
+.background-RV55 {background-color:#e9a5ca !important;} /* Hollyhock */
+.border-RV55 {border-color:#e9a5ca !important;} /* Hollyhock */
+
+.RV63 {color:#d09dae !important;} /* Begonia */
+.background-RV63 {background-color:#d09dae !important;} /* Begonia */
+.border-RV63 {border-color:#d09dae !important;} /* Begonia */
+
+.RV66 {color:#b86a84 !important;} /* Raspberry */
+.background-RV66 {background-color:#b86a84 !important;} /* Raspberry */
+.border-RV66 {border-color:#b86a84 !important;} /* Raspberry */
+
+.RV69 {color:#8b576e !important;} /* Peony */
+.background-RV69 {background-color:#8b576e !important;} /* Peony */
+.border-RV69 {border-color:#8b576e !important;} /* Peony */
+
+.RV91 {color:#e6d4e2 !important;} /* Garyish Cherry */
+.background-RV91 {background-color:#e6d4e2 !important;} /* Garyish Cherry */
+.border-RV91 {border-color:#e6d4e2 !important;} /* Garyish Cherry */
+
+.RV93 {color:#e7b6cc !important;} /* Smokey Purple */
+.background-RV93 {background-color:#e7b6cc !important;} /* Smokey Purple */
+.border-RV93 {border-color:#e7b6cc !important;} /* Smokey Purple */
+
+.RV95 {color:#b684a1 !important;} /* Baby Blossoms */
+.background-RV95 {background-color:#b684a1 !important;} /* Baby Blossoms */
+.border-RV95 {border-color:#b684a1 !important;} /* Baby Blossoms */
+
+.RV99 {color:#5a4858 !important;} /* Argyle Purple */
+.background-RV99 {background-color:#5a4858 !important;} /* Argyle Purple */
+.border-RV99 {border-color:#5a4858 !important;} /* Argyle Purple */
+
+.T0 {color:#eceeed !important;} /* Toner Gray */
+.background-T0 {background-color:#eceeed !important;} /* Toner Gray */
+.border-T0 {border-color:#eceeed !important;} /* Toner Gray */
+
+.T10 {color:#322e2d !important;} /* Toner Gray */
+.background-T10 {background-color:#322e2d !important;} /* Toner Gray */
+.border-T10 {border-color:#322e2d !important;} /* Toner Gray */
+
+.T1 {color:#eaeae8 !important;} /* Toner Gray */
+.background-T1 {background-color:#eaeae8 !important;} /* Toner Gray */
+.border-T1 {border-color:#eaeae8 !important;} /* Toner Gray */
+
+.T2 {color:#e0e0de !important;} /* Toner Gray */
+.background-T2 {background-color:#e0e0de !important;} /* Toner Gray */
+.border-T2 {border-color:#e0e0de !important;} /* Toner Gray */
+
+.T3 {color:#d1d2cc !important;} /* Toner Gray */
+.background-T3 {background-color:#d1d2cc !important;} /* Toner Gray */
+.border-T3 {border-color:#d1d2cc !important;} /* Toner Gray */
+
+.T4 {color:#bcbbb9 !important;} /* Toner Gray */
+.background-T4 {background-color:#bcbbb9 !important;} /* Toner Gray */
+.border-T4 {border-color:#bcbbb9 !important;} /* Toner Gray */
+
+.T5 {color:#a8a7a3 !important;} /* Toner Gray */
+.background-T5 {background-color:#a8a7a3 !important;} /* Toner Gray */
+.border-T5 {border-color:#a8a7a3 !important;} /* Toner Gray */
+
+.T6 {color:#949590 !important;} /* Toner Gray */
+.background-T6 {background-color:#949590 !important;} /* Toner Gray */
+.border-T6 {border-color:#949590 !important;} /* Toner Gray */
+
+.T7 {color:#777674 !important;} /* Toner Gray */
+.background-T7 {background-color:#777674 !important;} /* Toner Gray */
+.border-T7 {border-color:#777674 !important;} /* Toner Gray */
+
+.T8 {color:#63645f !important;} /* Toner Gray */
+.background-T8 {background-color:#63645f !important;} /* Toner Gray */
+.border-T8 {border-color:#63645f !important;} /* Toner Gray */
+
+.T9 {color:#4c4b49 !important;} /* Toner Gray */
+.background-T9 {background-color:#4c4b49 !important;} /* Toner Gray */
+.border-T9 {border-color:#4c4b49 !important;} /* Toner Gray */
+
+.V0000 {color:#f0edf6 !important;} /* Rose Quartz */
+.background-V0000 {background-color:#f0edf6 !important;} /* Rose Quartz */
+.border-V0000 {border-color:#f0edf6 !important;} /* Rose Quartz */
+
+.V000 {color:#e9e5f3 !important;} /* Pale Heath */
+.background-V000 {background-color:#e9e5f3 !important;} /* Pale Heath */
+.border-V000 {border-color:#e9e5f3 !important;} /* Pale Heath */
+
+.V01 {color:#e4c1d9 !important;} /* Heath */
+.background-V01 {background-color:#e4c1d9 !important;} /* Heath */
+.border-V01 {border-color:#e4c1d9 !important;} /* Heath */
+
+.V04 {color:#e6aace !important;} /* Lilac */
+.background-V04 {background-color:#e6aace !important;} /* Lilac */
+.border-V04 {border-color:#e6aace !important;} /* Lilac */
+
+.V05 {color:#e2a6ca !important;} /* Azalea */
+.background-V05 {background-color:#e2a6ca !important;} /* Azalea */
+.border-V05 {border-color:#e2a6ca !important;} /* Azalea */
+
+.V06 {color:#ce95c2 !important;} /* Lavender */
+.background-V06 {background-color:#ce95c2 !important;} /* Lavender */
+.border-V06 {border-color:#ce95c2 !important;} /* Lavender */
+
+.V09 {color:#8754a1 !important;} /* Violet */
+.background-V09 {background-color:#8754a1 !important;} /* Violet */
+.border-V09 {border-color:#8754a1 !important;} /* Violet */
+
+.V12 {color:#eed7e9 !important;} /* Pale Lilac */
+.background-V12 {background-color:#eed7e9 !important;} /* Pale Lilac */
+.border-V12 {border-color:#eed7e9 !important;} /* Pale Lilac */
+
+.V15 {color:#d3a6cd !important;} /* Mallow */
+.background-V15 {background-color:#d3a6cd !important;} /* Mallow */
+.border-V15 {border-color:#d3a6cd !important;} /* Mallow */
+
+.V17 {color:#a092c7 !important;} /* Amethyst */
+.background-V17 {background-color:#a092c7 !important;} /* Amethyst */
+.border-V17 {border-color:#a092c7 !important;} /* Amethyst */
+
+.V20 {color:#e2e0ed !important;} /* Wisteria */
+.background-V20 {background-color:#e2e0ed !important;} /* Wisteria */
+.border-V20 {border-color:#e2e0ed !important;} /* Wisteria */
+
+.V22 {color:#b2b1d0 !important;} /* Sketch Ash Lavender */
+.background-V22 {background-color:#b2b1d0 !important;} /* Sketch Ash Lavender */
+.border-V22 {border-color:#b2b1d0 !important;} /* Sketch Ash Lavender */
+
+.V25 {color:#857fad !important;} /* Pale Blackberry */
+.background-V25 {background-color:#857fad !important;} /* Pale Blackberry */
+.border-V25 {border-color:#857fad !important;} /* Pale Blackberry */
+
+.V28 {color:#6b668e !important;} /* Sketch Eggplant */
+.background-V28 {background-color:#6b668e !important;} /* Sketch Eggplant */
+.border-V28 {border-color:#6b668e !important;} /* Sketch Eggplant */
+
+.V91 {color:#e8c4d0 !important;} /* Pale Grape */
+.background-V91 {background-color:#e8c4d0 !important;} /* Pale Grape */
+.border-V91 {border-color:#e8c4d0 !important;} /* Pale Grape */
+
+.V93 {color:#e5c1db !important;} /* Early Grape */
+.background-V93 {background-color:#e5c1db !important;} /* Early Grape */
+.border-V93 {border-color:#e5c1db !important;} /* Early Grape */
+
+.V95 {color:#b77ca8 !important;} /* Light Grape */
+.background-V95 {background-color:#b77ca8 !important;} /* Light Grape */
+.border-V95 {border-color:#b77ca8 !important;} /* Light Grape */
+
+.V99 {color:#524358 !important;} /* Aubergine */
+.background-V99 {background-color:#524358 !important;} /* Aubergine */
+.border-V99 {border-color:#524358 !important;} /* Aubergine */
+
+.W00 {color:#f3f3eb !important;} /* Warm Gray */
+.background-W00 {background-color:#f3f3eb !important;} /* Warm Gray */
+.border-W00 {border-color:#f3f3eb !important;} /* Warm Gray */
+
+.W0 {color:#ecece4 !important;} /* Warm Gray */
+.background-W0 {background-color:#ecece4 !important;} /* Warm Gray */
+.border-W0 {border-color:#ecece4 !important;} /* Warm Gray */
+
+.W10 {color:#302f2b !important;} /* Warm Gray */
+.background-W10 {background-color:#302f2b !important;} /* Warm Gray */
+.border-W10 {border-color:#302f2b !important;} /* Warm Gray */
+
+.W1 {color:#e7e7df !important;} /* Warm Gray No. 1 */
+.background-W1 {background-color:#e7e7df !important;} /* Warm Gray No. 1 */
+.border-W1 {border-color:#e7e7df !important;} /* Warm Gray No. 1 */
+
+.W2 {color:#ddddd5 !important;} /* Warm Gray */
+.background-W2 {background-color:#ddddd5 !important;} /* Warm Gray */
+.border-W2 {border-color:#ddddd5 !important;} /* Warm Gray */
+
+.W3 {color:#d2d2ca !important;} /* Warm Gray No. 3 */
+.background-W3 {background-color:#d2d2ca !important;} /* Warm Gray No. 3 */
+.border-W3 {border-color:#d2d2ca !important;} /* Warm Gray No. 3 */
+
+.W4 {color:#bcbdb7 !important;} /* Warm Gray */
+.background-W4 {background-color:#bcbdb7 !important;} /* Warm Gray */
+.border-W4 {border-color:#bcbdb7 !important;} /* Warm Gray */
+
+.W5 {color:#a8a9a4 !important;} /* Warm Gray No. 5 */
+.background-W5 {background-color:#a8a9a4 !important;} /* Warm Gray No. 5 */
+.border-W5 {border-color:#a8a9a4 !important;} /* Warm Gray No. 5 */
+
+.W6 {color:#94958f !important;} /* Warm Gray */
+.background-W6 {background-color:#94958f !important;} /* Warm Gray */
+.border-W6 {border-color:#94958f !important;} /* Warm Gray */
+
+.W7 {color:#777873 !important;} /* Warm Gray No. 7 */
+.background-W7 {background-color:#777873 !important;} /* Warm Gray No. 7 */
+.border-W7 {border-color:#777873 !important;} /* Warm Gray No. 7 */
+
+.W8 {color:#63645f !important;} /* Warm Gray */
+.background-W8 {background-color:#63645f !important;} /* Warm Gray */
+.border-W8 {border-color:#63645f !important;} /* Warm Gray */
+
+.W9 {color:#4c4d48 !important;} /* Warm Gray */
+.background-W9 {background-color:#4c4d48 !important;} /* Warm Gray */
+.border-W9 {border-color:#4c4d48 !important;} /* Warm Gray */
+
+.Y0000 {color:#fefef4 !important;} /* Yellow Fluorite */
+.background-Y0000 {background-color:#fefef4 !important;} /* Yellow Fluorite */
+.border-Y0000 {border-color:#fefef4 !important;} /* Yellow Fluorite */
+
+.Y000 {color:#fffce9 !important;} /* Pale Lemon */
+.background-Y000 {background-color:#fffce9 !important;} /* Pale Lemon */
+.border-Y000 {border-color:#fffce9 !important;} /* Pale Lemon */
+
+.Y00 {color:#fefddf !important;} /* Barium Yellow */
+.background-Y00 {background-color:#fefddf !important;} /* Barium Yellow */
+.border-Y00 {border-color:#fefddf !important;} /* Barium Yellow */
+
+.Y02 {color:#f6f396 !important;} /* Canary Yellow */
+.background-Y02 {background-color:#f6f396 !important;} /* Canary Yellow */
+.border-Y02 {border-color:#f6f396 !important;} /* Canary Yellow */
+
+.Y04 {color:#ede556 !important;} /* Acacia */
+.background-Y04 {background-color:#ede556 !important;} /* Acacia */
+.border-Y04 {border-color:#ede556 !important;} /* Acacia */
+
+.Y06 {color:#fef56c !important;} /* Yellow */
+.background-Y06 {background-color:#fef56c !important;} /* Yellow */
+.border-Y06 {border-color:#fef56c !important;} /* Yellow */
+
+.Y08 {color:#fef200 !important;} /* Acid Yellow */
+.background-Y08 {background-color:#fef200 !important;} /* Acid Yellow */
+.border-Y08 {border-color:#fef200 !important;} /* Acid Yellow */
+
+.Y11 {color:#fffbcc !important;} /* Pale Yellow */
+.background-Y11 {background-color:#fffbcc !important;} /* Pale Yellow */
+.border-Y11 {border-color:#fffbcc !important;} /* Pale Yellow */
+
+.Y13 {color:#fbf7ae !important;} /* Lemon Yellow */
+.background-Y13 {background-color:#fbf7ae !important;} /* Lemon Yellow */
+.border-Y13 {border-color:#fbf7ae !important;} /* Lemon Yellow */
+
+.Y15 {color:#fee96c !important;} /* Cadmium Yellow */
+.background-Y15 {background-color:#fee96c !important;} /* Cadmium Yellow */
+.border-Y15 {border-color:#fee96c !important;} /* Cadmium Yellow */
+
+.Y17 {color:#ffe455 !important;} /* Golden Yellow */
+.background-Y17 {background-color:#ffe455 !important;} /* Golden Yellow */
+.border-Y17 {border-color:#ffe455 !important;} /* Golden Yellow */
+
+.Y18 {color:#feed55 !important;} /* Lightning Yellow */
+.background-Y18 {background-color:#feed55 !important;} /* Lightning Yellow */
+.border-Y18 {border-color:#feed55 !important;} /* Lightning Yellow */
+
+.Y19 {color:#ffe93e !important;} /* Napoli Yellow */
+.background-Y19 {background-color:#ffe93e !important;} /* Napoli Yellow */
+.border-Y19 {border-color:#ffe93e !important;} /* Napoli Yellow */
+
+.Y21 {color:#ffeec2 !important;} /* Buttercup Yellow */
+.background-Y21 {background-color:#ffeec2 !important;} /* Buttercup Yellow */
+.border-Y21 {border-color:#ffeec2 !important;} /* Buttercup Yellow */
+
+.Y23 {color:#fbe3b3 !important;} /* Yellowish Beige */
+.background-Y23 {background-color:#fbe3b3 !important;} /* Yellowish Beige */
+.border-Y23 {border-color:#fbe3b3 !important;} /* Yellowish Beige */
+
+.Y26 {color:#f0dd67 !important;} /* Mustard */
+.background-Y26 {background-color:#f0dd67 !important;} /* Mustard */
+.border-Y26 {border-color:#f0dd67 !important;} /* Mustard */
+
+.Y28 {color:#caa869 !important;} /* Lionet Gold */
+.background-Y28 {background-color:#caa869 !important;} /* Lionet Gold */
+.border-Y28 {border-color:#caa869 !important;} /* Lionet Gold */
+
+.Y32 {color:#f9dec0 !important;} /* Cashmere */
+.background-Y32 {background-color:#f9dec0 !important;} /* Cashmere */
+.border-Y32 {border-color:#f9dec0 !important;} /* Cashmere */
+
+.Y35 {color:#ffd879 !important;} /* Maize */
+.background-Y35 {background-color:#ffd879 !important;} /* Maize */
+.border-Y35 {border-color:#ffd879 !important;} /* Maize */
+
+.Y38 {color:#ffd374 !important;} /* Honey */
+.background-Y38 {background-color:#ffd374 !important;} /* Honey */
+.border-Y38 {border-color:#ffd374 !important;} /* Honey */
+
+.YG0000 {color:#f2f7e0 !important;} /* Lily White */
+.background-YG0000 {background-color:#f2f7e0 !important;} /* Lily White */
+.border-YG0000 {border-color:#f2f7e0 !important;} /* Lily White */
+
+.YG00 {color:#e6e69e !important;} /* Mimosa Yellow */
+.background-YG00 {background-color:#e6e69e !important;} /* Mimosa Yellow */
+.border-YG00 {border-color:#e6e69e !important;} /* Mimosa Yellow */
+
+.YG01 {color:#e2ebb2 !important;} /* Green Bice */
+.background-YG01 {background-color:#e2ebb2 !important;} /* Green Bice */
+.border-YG01 {border-color:#e2ebb2 !important;} /* Green Bice */
+
+.YG03 {color:#deeaaa !important;} /* Yellow Green */
+.background-YG03 {background-color:#deeaaa !important;} /* Yellow Green */
+.border-YG03 {border-color:#deeaaa !important;} /* Yellow Green */
+
+.YG05 {color:#d6e592 !important;} /* Salad */
+.background-YG05 {background-color:#d6e592 !important;} /* Salad */
+.border-YG05 {border-color:#d6e592 !important;} /* Salad */
+
+.YG06 {color:#c4df92 !important;} /* Yellowish Green */
+.background-YG06 {background-color:#c4df92 !important;} /* Yellowish Green */
+.border-YG06 {border-color:#c4df92 !important;} /* Yellowish Green */
+
+.YG07 {color:#a5cf4f !important;} /* Acid Green */
+.background-YG07 {background-color:#a5cf4f !important;} /* Acid Green */
+.border-YG07 {border-color:#a5cf4f !important;} /* Acid Green */
+
+.YG09 {color:#82c566 !important;} /* Lettuce Green */
+.background-YG09 {background-color:#82c566 !important;} /* Lettuce Green */
+.border-YG09 {border-color:#82c566 !important;} /* Lettuce Green */
+
+.YG11 {color:#e5f0d0 !important;} /* Mignonette */
+.background-YG11 {background-color:#e5f0d0 !important;} /* Mignonette */
+.border-YG11 {border-color:#e5f0d0 !important;} /* Mignonette */
+
+.YG13 {color:#d4e59f !important;} /* Chartreuse */
+.background-YG13 {background-color:#d4e59f !important;} /* Chartreuse */
+.border-YG13 {border-color:#d4e59f !important;} /* Chartreuse */
+
+.YG17 {color:#72c156 !important;} /* Grass Green */
+.background-YG17 {background-color:#72c156 !important;} /* Grass Green */
+.border-YG17 {border-color:#72c156 !important;} /* Grass Green */
+
+.YG21 {color:#f7f6be !important;} /* Anise */
+.background-YG21 {background-color:#f7f6be !important;} /* Anise */
+.border-YG21 {border-color:#f7f6be !important;} /* Anise */
+
+.YG23 {color:#e6eb8f !important;} /* New Leaf */
+.background-YG23 {background-color:#e6eb8f !important;} /* New Leaf */
+.border-YG23 {border-color:#e6eb8f !important;} /* New Leaf */
+
+.YG25 {color:#d0e17b !important;} /* Celadon Green */
+.background-YG25 {background-color:#d0e17b !important;} /* Celadon Green */
+.border-YG25 {border-color:#d0e17b !important;} /* Celadon Green */
+
+.YG41 {color:#d5ebd4 !important;} /* Pale Cobalt Green */
+.background-YG41 {background-color:#d5ebd4 !important;} /* Pale Cobalt Green */
+.border-YG41 {border-color:#d5ebd4 !important;} /* Pale Cobalt Green */
+
+.YG45 {color:#b4dcb7 !important;} /* Cobalt Green */
+.background-YG45 {background-color:#b4dcb7 !important;} /* Cobalt Green */
+.border-YG45 {border-color:#b4dcb7 !important;} /* Cobalt Green */
+
+.YG61 {color:#d6e9d6 !important;} /* Pale Moss */
+.background-YG61 {background-color:#d6e9d6 !important;} /* Pale Moss */
+.border-YG61 {border-color:#d6e9d6 !important;} /* Pale Moss */
+
+.YG63 {color:#a0caa2 !important;} /* Pea Green */
+.background-YG63 {background-color:#a0caa2 !important;} /* Pea Green */
+.border-YG63 {border-color:#a0caa2 !important;} /* Pea Green */
+
+.YG67 {color:#81bf8c !important;} /* Moss */
+.background-YG67 {background-color:#81bf8c !important;} /* Moss */
+.border-YG67 {border-color:#81bf8c !important;} /* Moss */
+
+.YG91 {color:#dad7ae !important;} /* Putty */
+.background-YG91 {background-color:#dad7ae !important;} /* Putty */
+.border-YG91 {border-color:#dad7ae !important;} /* Putty */
+
+.YG93 {color:#d2d29c !important;} /* Grayish Yellow */
+.background-YG93 {background-color:#d2d29c !important;} /* Grayish Yellow */
+.border-YG93 {border-color:#d2d29c !important;} /* Grayish Yellow */
+
+.YG95 {color:#cbc65e !important;} /* Pale Olive */
+.background-YG95 {background-color:#cbc65e !important;} /* Pale Olive */
+.border-YG95 {border-color:#cbc65e !important;} /* Pale Olive */
+
+.YG97 {color:#958f03 !important;} /* Spanish Olive */
+.background-YG97 {background-color:#958f03 !important;} /* Spanish Olive */
+.border-YG97 {border-color:#958f03 !important;} /* Spanish Olive */
+
+.YG99 {color:#4e6a15 !important;} /* Marine Green */
+.background-YG99 {background-color:#4e6a15 !important;} /* Marine Green */
+.border-YG99 {border-color:#4e6a15 !important;} /* Marine Green */
+
+.YR0000 {color:#fff3e5 !important;} /* Pale Chiffon */
+.background-YR0000 {background-color:#fff3e5 !important;} /* Pale Chiffon */
+.border-YR0000 {border-color:#fff3e5 !important;} /* Pale Chiffon */
+
+.YR000 {color:#feecd8 !important;} /* Silk */
+.background-YR000 {background-color:#feecd8 !important;} /* Silk */
+.border-YR000 {border-color:#feecd8 !important;} /* Silk */
+
+.YR00 {color:#fed6bd !important;} /* Powder Pink */
+.background-YR00 {background-color:#fed6bd !important;} /* Powder Pink */
+.border-YR00 {border-color:#fed6bd !important;} /* Powder Pink */
+
+.YR01 {color:#fedac2 !important;} /* Peach Puff */
+.background-YR01 {background-color:#fedac2 !important;} /* Peach Puff */
+.border-YR01 {border-color:#fedac2 !important;} /* Peach Puff */
+
+.YR02 {color:#fcdcc5 !important;} /* Light Orange */
+.background-YR02 {background-color:#fcdcc5 !important;} /* Light Orange */
+.border-YR02 {border-color:#fcdcc5 !important;} /* Light Orange */
+
+.YR04 {color:#fec369 !important;} /* Chrome Orange */
+.background-YR04 {background-color:#fec369 !important;} /* Chrome Orange */
+.border-YR04 {border-color:#fec369 !important;} /* Chrome Orange */
+
+.YR07 {color:#f26f39 !important;} /* Cadmium Orange */
+.background-YR07 {background-color:#f26f39 !important;} /* Cadmium Orange */
+.border-YR07 {border-color:#f26f39 !important;} /* Cadmium Orange */
+
+.YR09 {color:#f15524 !important;} /* Chinese Orange */
+.background-YR09 {background-color:#f15524 !important;} /* Chinese Orange */
+.border-YR09 {border-color:#f15524 !important;} /* Chinese Orange */
+
+.YR12 {color:#ffe2a6 !important;} /* Loquat */
+.background-YR12 {background-color:#ffe2a6 !important;} /* Loquat */
+.border-YR12 {border-color:#ffe2a6 !important;} /* Loquat */
+
+.YR14 {color:#fec84e !important;} /* Caramel */
+.background-YR14 {background-color:#fec84e !important;} /* Caramel */
+.border-YR14 {border-color:#fec84e !important;} /* Caramel */
+
+.YR15 {color:#fbb884 !important;} /* Pumpkin Yellow */
+.background-YR15 {background-color:#fbb884 !important;} /* Pumpkin Yellow */
+.border-YR15 {border-color:#fbb884 !important;} /* Pumpkin Yellow */
+
+.YR16 {color:#feb729 !important;} /* Apricot */
+.background-YR16 {background-color:#feb729 !important;} /* Apricot */
+.border-YR16 {border-color:#feb729 !important;} /* Apricot */
+
+.YR18 {color:#f26b3c !important;} /* Sanguine */
+.background-YR18 {background-color:#f26b3c !important;} /* Sanguine */
+.border-YR18 {border-color:#f26b3c !important;} /* Sanguine */
+
+.YR20 {color:#ffe1bf !important;} /* Yellowish Shade */
+.background-YR20 {background-color:#ffe1bf !important;} /* Yellowish Shade */
+.border-YR20 {border-color:#ffe1bf !important;} /* Yellowish Shade */
+
+.YR21 {color:#f5ddb1 !important;} /* Cream */
+.background-YR21 {background-color:#f5ddb1 !important;} /* Cream */
+.border-YR21 {border-color:#f5ddb1 !important;} /* Cream */
+
+.YR23 {color:#eccf8b !important;} /* Yellow Ochre */
+.background-YR23 {background-color:#eccf8b !important;} /* Yellow Ochre */
+.border-YR23 {border-color:#eccf8b !important;} /* Yellow Ochre */
+
+.YR24 {color:#f0cf64 !important;} /* Pale Sepia */
+.background-YR24 {background-color:#f0cf64 !important;} /* Pale Sepia */
+.border-YR24 {border-color:#f0cf64 !important;} /* Pale Sepia */
+
+.YR27 {color:#d56638 !important;} /* Tuscan Orange */
+.background-YR27 {background-color:#d56638 !important;} /* Tuscan Orange */
+.border-YR27 {border-color:#d56638 !important;} /* Tuscan Orange */
+
+.YR30 {color:#fef2da !important;} /* Macadamia Nut */
+.background-YR30 {background-color:#fef2da !important;} /* Macadamia Nut */
+.border-YR30 {border-color:#fef2da !important;} /* Macadamia Nut */
+
+.YR31 {color:#ffdea8 !important;} /* Light Reddish Yellow */
+.background-YR31 {background-color:#ffdea8 !important;} /* Light Reddish Yellow */
+.border-YR31 {border-color:#ffdea8 !important;} /* Light Reddish Yellow */
+
+.YR61 {color:#fddac4 !important;} /* Spring Orange */
+.background-YR61 {background-color:#fddac4 !important;} /* Spring Orange */
+.border-YR61 {border-color:#fddac4 !important;} /* Spring Orange */
+
+.YR65 {color:#faae60 !important;} /* Atoll */
+.background-YR65 {background-color:#faae60 !important;} /* Atoll */
+.border-YR65 {border-color:#faae60 !important;} /* Atoll */
+
+.YR68 {color:#f37022 !important;} /* Orange */
+.background-YR68 {background-color:#f37022 !important;} /* Orange */
+.border-YR68 {border-color:#f37022 !important;} /* Orange */
+
+.YR82 {color:#fdc68d !important;} /* Mellow Peach */
+.background-YR82 {background-color:#fdc68d !important;} /* Mellow Peach */
+.border-YR82 {border-color:#fdc68d !important;} /* Mellow Peach */
+
