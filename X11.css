@@ -10,600 +10,1172 @@
  */
 .IndianRed {color:#CD5C5C !important;}
 .color_CD5C5C {color:#CD5C5C !important;}
-.background_CD5C5C {color:#CD5C5C !important;}
-.background_IndianRed {color:#CD5C5C !important;}
+.background_CD5C5C {background-color:#CD5C5C !important;}
+.border_CD5C5C {border-color:#CD5C5C !important;}
+
+.background_IndianRed {background-color:#CD5C5C !important;}
+.border_IndianRed {border-color:#CD5C5C !important;}
+
 .LightCoral {color:#F08080 !important;}
 .color_F08080 {color:#F08080 !important;}
-.background_F08080 {color:#F08080 !important;}
-.background_LightCoral {color:#F08080 !important;}
+.background_F08080 {background-color:#F08080 !important;}
+.border_F08080 {border-color:#F08080 !important;}
+
+.background_LightCoral {background-color:#F08080 !important;}
+.border_LightCoral {border-color:#F08080 !important;}
+
 .Salmon {color:#FA8072 !important;}
 .color_FA8072 {color:#FA8072 !important;}
-.background_FA8072 {color:#FA8072 !important;}
-.background_Salmon {color:#FA8072 !important;}
+.background_FA8072 {background-color:#FA8072 !important;}
+.border_FA8072 {border-color:#FA8072 !important;}
+
+.background_Salmon {background-color:#FA8072 !important;}
+.border_Salmon {border-color:#FA8072 !important;}
+
 .DarkSalmon {color:#E9967A !important;}
 .color_E9967A {color:#E9967A !important;}
-.background_E9967A {color:#E9967A !important;}
-.background_DarkSalmon {color:#E9967A !important;}
+.background_E9967A {background-color:#E9967A !important;}
+.border_E9967A {border-color:#E9967A !important;}
+
+.background_DarkSalmon {background-color:#E9967A !important;}
+.border_DarkSalmon {border-color:#E9967A !important;}
+
 .LightSalmon {color:#FFA07A !important;}
 .color_FFA07A {color:#FFA07A !important;}
-.background_FFA07A {color:#FFA07A !important;}
-.background_LightSalmon {color:#FFA07A !important;}
+.background_FFA07A {background-color:#FFA07A !important;}
+.border_FFA07A {border-color:#FFA07A !important;}
+
+.background_LightSalmon {background-color:#FFA07A !important;}
+.border_LightSalmon {border-color:#FFA07A !important;}
+
 .Crimson {color:#DC143C !important;}
 .color_DC143C {color:#DC143C !important;}
-.background_DC143C {color:#DC143C !important;}
-.background_Crimson {color:#DC143C !important;}
+.background_DC143C {background-color:#DC143C !important;}
+.border_DC143C {border-color:#DC143C !important;}
+
+.background_Crimson {background-color:#DC143C !important;}
+.border_Crimson {border-color:#DC143C !important;}
+
 .Red {color:#FF0000 !important;}
 .color_FF0000 {color:#FF0000 !important;}
-.background_FF0000 {color:#FF0000 !important;}
-.background_Red {color:#FF0000 !important;}
+.background_FF0000 {background-color:#FF0000 !important;}
+.border_FF0000 {border-color:#FF0000 !important;}
+
+.background_Red {background-color:#FF0000 !important;}
+.border_Red {border-color:#FF0000 !important;}
+
 .FireBrick {color:#B22222 !important;}
 .color_B22222 {color:#B22222 !important;}
-.background_B22222 {color:#B22222 !important;}
-.background_FireBrick {color:#B22222 !important;}
+.background_B22222 {background-color:#B22222 !important;}
+.border_B22222 {border-color:#B22222 !important;}
+
+.background_FireBrick {background-color:#B22222 !important;}
+.border_FireBrick {border-color:#B22222 !important;}
+
 .DarkRed {color:#8B0000 !important;}
 .color_8B0000 {color:#8B0000 !important;}
-.background_8B0000 {color:#8B0000 !important;}
-.background_DarkRed {color:#8B0000 !important;}
+.background_8B0000 {background-color:#8B0000 !important;}
+.border_8B0000 {border-color:#8B0000 !important;}
+
+.background_DarkRed {background-color:#8B0000 !important;}
+.border_DarkRed {border-color:#8B0000 !important;}
+
 /* 
  * Pinks 
  */
 .Pink {color:#FFC0CB !important;}
 .color_FFC0CB {color:#FFC0CB !important;}
-.background_FFC0CB {color:#FFC0CB !important;}
-.background_Pink {color:#FFC0CB !important;}
+.background_FFC0CB {background-color:#FFC0CB !important;}
+.border_FFC0CB {border-color:#FFC0CB !important;}
+
+.background_Pink {background-color:#FFC0CB !important;}
+.border_Pink {border-color:#FFC0CB !important;}
+
 .LightPink {color:#FFB6C1 !important;}
 .color_FFB6C1 {color:#FFB6C1 !important;}
-.background_FFB6C1 {color:#FFB6C1 !important;}
-.background_LightPink {color:#FFB6C1 !important;}
+.background_FFB6C1 {background-color:#FFB6C1 !important;}
+.border_FFB6C1 {border-color:#FFB6C1 !important;}
+
+.background_LightPink {background-color:#FFB6C1 !important;}
+.border_LightPink {border-color:#FFB6C1 !important;}
+
 .HotPink {color:#FF69B4 !important;}
 .color_FF69B4 {color:#FF69B4 !important;}
-.background_FF69B4 {color:#FF69B4 !important;}
-.background_HotPink {color:#FF69B4 !important;}
+.background_FF69B4 {background-color:#FF69B4 !important;}
+.border_FF69B4 {border-color:#FF69B4 !important;}
+
+.background_HotPink {background-color:#FF69B4 !important;}
+.border_HotPink {border-color:#FF69B4 !important;}
+
 .DeepPink {color:#FF1493 !important;}
 .color_FF1493 {color:#FF1493 !important;}
-.background_FF1493 {color:#FF1493 !important;}
-.background_DeepPink {color:#FF1493 !important;}
+.background_FF1493 {background-color:#FF1493 !important;}
+.border_FF1493 {border-color:#FF1493 !important;}
+
+.background_DeepPink {background-color:#FF1493 !important;}
+.border_DeepPink {border-color:#FF1493 !important;}
+
 .MediumVioletRed {color:#C71585 !important;}
 .color_C71585 {color:#C71585 !important;}
-.background_C71585 {color:#C71585 !important;}
-.background_MediumVioletRed {color:#C71585 !important;}
+.background_C71585 {background-color:#C71585 !important;}
+.border_C71585 {border-color:#C71585 !important;}
+
+.background_MediumVioletRed {background-color:#C71585 !important;}
+.border_MediumVioletRed {border-color:#C71585 !important;}
+
 .PaleVioletRed {color:#DB7093 !important;}
 .color_DB7093 {color:#DB7093 !important;}
-.background_DB7093 {color:#DB7093 !important;}
-.background_PaleVioletRed {color:#DB7093 !important;}
+.background_DB7093 {background-color:#DB7093 !important;}
+.border_DB7093 {border-color:#DB7093 !important;}
+
+.background_PaleVioletRed {background-color:#DB7093 !important;}
+.border_PaleVioletRed {border-color:#DB7093 !important;}
+
 /*
  * Oranges
  */
 .LightSalmon {color:#FFA07A !important;}
 .color_FFA07A {color:#FFA07A !important;}
-.background_FFA07A {color:#FFA07A !important;}
-.background_LightSalmon {color:#FFA07A !important;}
+.background_FFA07A {background-color:#FFA07A !important;}
+.border_FFA07A {border-color:#FFA07A !important;}
+
+.background_LightSalmon {background-color:#FFA07A !important;}
+.border_LightSalmon {border-color:#FFA07A !important;}
+
 .Coral {color:#FF7F50 !important;}
 .color_FF7F50 {color:#FF7F50 !important;}
-.background_FF7F50 {color:#FF7F50 !important;}
-.background_Coral {color:#FF7F50 !important;}
+.background_FF7F50 {background-color:#FF7F50 !important;}
+.border_FF7F50 {border-color:#FF7F50 !important;}
+
+.background_Coral {background-color:#FF7F50 !important;}
+.border_Coral {border-color:#FF7F50 !important;}
+
 .Tomato {color:#FF6347 !important;}
 .color_FF6347 {color:#FF6347 !important;}
-.background_FF6347 {color:#FF6347 !important;}
-.background_Tomato {color:#FF6347 !important;}
+.background_FF6347 {background-color:#FF6347 !important;}
+.border_FF6347 {border-color:#FF6347 !important;}
+
+.background_Tomato {background-color:#FF6347 !important;}
+.border_Tomato {border-color:#FF6347 !important;}
+
 .OrangeRed {color:#FF4500 !important;}
 .color_FF4500 {color:#FF4500 !important;}
-.background_FF4500 {color:#FF4500 !important;}
-.background_OrangeRed {color:#FF4500 !important;}
+.background_FF4500 {background-color:#FF4500 !important;}
+.border_FF4500 {border-color:#FF4500 !important;}
+
+.background_OrangeRed {background-color:#FF4500 !important;}
+.border_OrangeRed {border-color:#FF4500 !important;}
+
 .DarkOrange {color:#FF8C00 !important;}
 .color_FF8C00 {color:#FF8C00 !important;}
-.background_FF8C00 {color:#FF8C00 !important;}
-.background_DarkOrange {color:#FF8C00 !important;}
+.background_FF8C00 {background-color:#FF8C00 !important;}
+.border_FF8C00 {border-color:#FF8C00 !important;}
+
+.background_DarkOrange {background-color:#FF8C00 !important;}
+.border_DarkOrange {border-color:#FF8C00 !important;}
+
 .Orange {color:#FFA500 !important;}
 .color_FFA500 {color:#FFA500 !important;}
-.background_FFA500 {color:#FFA500 !important;}
-.background_Orange {color:#FFA500 !important;}
+.background_FFA500 {background-color:#FFA500 !important;}
+.border_FFA500 {border-color:#FFA500 !important;}
+
+.background_Orange {background-color:#FFA500 !important;}
+.border_Orange {border-color:#FFA500 !important;}
+
 /*
  * Yellows
  */
 .Gold {color:#FFD700 !important;}
 .color_FFD700 {color:#FFD700 !important;}
-.background_FFD700 {color:#FFD700 !important;}
-.background_Gold {color:#FFD700 !important;}
+.background_FFD700 {background-color:#FFD700 !important;}
+.border_FFD700 {border-color:#FFD700 !important;}
+
+.background_Gold {background-color:#FFD700 !important;}
+.border_Gold {border-color:#FFD700 !important;}
+
 .Yellow {color:#FFFF00 !important;}
 .color_FFFF00 {color:#FFFF00 !important;}
-.background_FFFF00 {color:#FFFF00 !important;}
-.background_Yellow {color:#FFFF00 !important;}
+.background_FFFF00 {background-color:#FFFF00 !important;}
+.border_FFFF00 {border-color:#FFFF00 !important;}
+
+.background_Yellow {background-color:#FFFF00 !important;}
+.border_Yellow {border-color:#FFFF00 !important;}
+
 .LightYellow {color:#FFFFE0 !important;}
 .color_FFFFE0 {color:#FFFFE0 !important;}
-.background_FFFFE0 {color:#FFFFE0 !important;}
-.background_LightYellow {color:#FFFFE0 !important;}
+.background_FFFFE0 {background-color:#FFFFE0 !important;}
+.border_FFFFE0 {border-color:#FFFFE0 !important;}
+
+.background_LightYellow {background-color:#FFFFE0 !important;}
+.border_LightYellow {border-color:#FFFFE0 !important;}
+
 .LemonChiffon {color:#FFFACD !important;}
 .color_FFFACD {color:#FFFACD !important;}
-.background_FFFACD {color:#FFFACD !important;}
-.background_LemonChiffon {color:#FFFACD !important;}
+.background_FFFACD {background-color:#FFFACD !important;}
+.border_FFFACD {border-color:#FFFACD !important;}
+
+.background_LemonChiffon {background-color:#FFFACD !important;}
+.border_LemonChiffon {border-color:#FFFACD !important;}
+
 .LightGoldenrodYellow {color:#FAFAD2 !important;}
 .color_FAFAD2 {color:#FAFAD2 !important;}
-.background_FAFAD2 {color:#FAFAD2 !important;}
-.background_LightGoldenrodYellow {color:#FAFAD2 !important;}
+.background_FAFAD2 {background-color:#FAFAD2 !important;}
+.border_FAFAD2 {border-color:#FAFAD2 !important;}
+
+.background_LightGoldenrodYellow {background-color:#FAFAD2 !important;}
+.border_LightGoldenrodYellow {border-color:#FAFAD2 !important;}
+
 .PapayaWhip {color:#FFEFD5 !important;}
 .color_FFEFD5 {color:#FFEFD5 !important;}
-.background_FFEFD5 {color:#FFEFD5 !important;}
-.background_PapayaWhip {color:#FFEFD5 !important;}
+.background_FFEFD5 {background-color:#FFEFD5 !important;}
+.border_FFEFD5 {border-color:#FFEFD5 !important;}
+
+.background_PapayaWhip {background-color:#FFEFD5 !important;}
+.border_PapayaWhip {border-color:#FFEFD5 !important;}
+
 .Moccasin {color:#FFE4B5 !important;}
 .color_FFE4B5 {color:#FFE4B5 !important;}
-.background_FFE4B5 {color:#FFE4B5 !important;}
-.background_Moccasin {color:#FFE4B5 !important;}
+.background_FFE4B5 {background-color:#FFE4B5 !important;}
+.border_FFE4B5 {border-color:#FFE4B5 !important;}
+
+.background_Moccasin {background-color:#FFE4B5 !important;}
+.border_Moccasin {border-color:#FFE4B5 !important;}
+
 .PeachPuff {color:#FFDAB9 !important;}
 .color_FFDAB9 {color:#FFDAB9 !important;}
-.background_FFDAB9 {color:#FFDAB9 !important;}
-.background_PeachPuff {color:#FFDAB9 !important;}
+.background_FFDAB9 {background-color:#FFDAB9 !important;}
+.border_FFDAB9 {border-color:#FFDAB9 !important;}
+
+.background_PeachPuff {background-color:#FFDAB9 !important;}
+.border_PeachPuff {border-color:#FFDAB9 !important;}
+
 .PaleGoldenrod {color:#EEE8AA !important;}
 .color_EEE8AA {color:#EEE8AA !important;}
-.background_EEE8AA {color:#EEE8AA !important;}
-.background_PaleGoldenrod {color:#EEE8AA !important;}
+.background_EEE8AA {background-color:#EEE8AA !important;}
+.border_EEE8AA {border-color:#EEE8AA !important;}
+
+.background_PaleGoldenrod {background-color:#EEE8AA !important;}
+.border_PaleGoldenrod {border-color:#EEE8AA !important;}
+
 .Khaki {color:#F0E68C !important;}
 .color_F0E68C {color:#F0E68C !important;}
-.background_F0E68C {color:#F0E68C !important;}
-.background_Khaki {color:#F0E68C !important;}
+.background_F0E68C {background-color:#F0E68C !important;}
+.border_F0E68C {border-color:#F0E68C !important;}
+
+.background_Khaki {background-color:#F0E68C !important;}
+.border_Khaki {border-color:#F0E68C !important;}
+
 .DarkKhaki {color:#BDB76B !important;}
 .color_BDB76B {color:#BDB76B !important;}
-.background_BDB76B {color:#BDB76B !important;}
-.background_DarkKhaki {color:#BDB76B !important;}
+.background_BDB76B {background-color:#BDB76B !important;}
+.border_BDB76B {border-color:#BDB76B !important;}
+
+.background_DarkKhaki {background-color:#BDB76B !important;}
+.border_DarkKhaki {border-color:#BDB76B !important;}
+
 /*
  * Purples
  */
 .Lavender {color:#E6E6FA !important;}
 .color_E6E6FA {color:#E6E6FA !important;}
-.background_E6E6FA {color:#E6E6FA !important;}
-.background_Lavender {color:#E6E6FA !important;}
+.background_E6E6FA {background-color:#E6E6FA !important;}
+.border_E6E6FA {border-color:#E6E6FA !important;}
+
+.background_Lavender {background-color:#E6E6FA !important;}
+.border_Lavender {border-color:#E6E6FA !important;}
+
 .Thistle {color:#D8BFD8 !important;}
 .color_D8BFD8 {color:#D8BFD8 !important;}
-.background_D8BFD8 {color:#D8BFD8 !important;}
-.background_Thistle {color:#D8BFD8 !important;}
+.background_D8BFD8 {background-color:#D8BFD8 !important;}
+.border_D8BFD8 {border-color:#D8BFD8 !important;}
+
+.background_Thistle {background-color:#D8BFD8 !important;}
+.border_Thistle {border-color:#D8BFD8 !important;}
+
 .Plum {color:#DDA0DD !important;}
 .color_DDA0DD {color:#DDA0DD !important;}
-.background_DDA0DD {color:#DDA0DD !important;}
-.background_Plum {color:#DDA0DD !important;}
+.background_DDA0DD {background-color:#DDA0DD !important;}
+.border_DDA0DD {border-color:#DDA0DD !important;}
+
+.background_Plum {background-color:#DDA0DD !important;}
+.border_Plum {border-color:#DDA0DD !important;}
+
 .Violet {color:#EE82EE !important;}
 .color_EE82EE {color:#EE82EE !important;}
-.background_EE82EE {color:#EE82EE !important;}
-.background_Violet {color:#EE82EE !important;}
+.background_EE82EE {background-color:#EE82EE !important;}
+.border_EE82EE {border-color:#EE82EE !important;}
+
+.background_Violet {background-color:#EE82EE !important;}
+.border_Violet {border-color:#EE82EE !important;}
+
 .Orchid {color:#DA70D6 !important;}
 .color_DA70D6 {color:#DA70D6 !important;}
-.background_DA70D6 {color:#DA70D6 !important;}
-.background_Orchid {color:#DA70D6 !important;}
+.background_DA70D6 {background-color:#DA70D6 !important;}
+.border_DA70D6 {border-color:#DA70D6 !important;}
+
+.background_Orchid {background-color:#DA70D6 !important;}
+.border_Orchid {border-color:#DA70D6 !important;}
+
 .Fuchsia {color:#FF00FF !important;}
 .color_FF00FF {color:#FF00FF !important;}
-.background_FF00FF {color:#FF00FF !important;}
-.background_Fuchsia {color:#FF00FF !important;}
+.background_FF00FF {background-color:#FF00FF !important;}
+.border_FF00FF {border-color:#FF00FF !important;}
+
+.background_Fuchsia {background-color:#FF00FF !important;}
+.border_Fuchsia {border-color:#FF00FF !important;}
+
 .Magenta {color:#FF00FF !important;}
 .color_FF00FF {color:#FF00FF !important;}
-.background_FF00FF {color:#FF00FF !important;}
-.background_Magenta {color:#FF00FF !important;}
+.background_FF00FF {background-color:#FF00FF !important;}
+.border_FF00FF {border-color:#FF00FF !important;}
+
+.background_Magenta {background-color:#FF00FF !important;}
+.border_Magenta {border-color:#FF00FF !important;}
+
 .MediumOrchid {color:#BA55D3 !important;}
 .color_BA55D3 {color:#BA55D3 !important;}
-.background_BA55D3 {color:#BA55D3 !important;}
-.background_MediumOrchid {color:#BA55D3 !important;}
+.background_BA55D3 {background-color:#BA55D3 !important;}
+.border_BA55D3 {border-color:#BA55D3 !important;}
+
+.background_MediumOrchid {background-color:#BA55D3 !important;}
+.border_MediumOrchid {border-color:#BA55D3 !important;}
+
 .MediumPurple {color:#9370DB !important;}
 .color_9370DB {color:#9370DB !important;}
-.background_9370DB {color:#9370DB !important;}
-.background_MediumPurple {color:#9370DB !important;}
+.background_9370DB {background-color:#9370DB !important;}
+.border_9370DB {border-color:#9370DB !important;}
+
+.background_MediumPurple {background-color:#9370DB !important;}
+.border_MediumPurple {border-color:#9370DB !important;}
+
 .Amethyst {color:#9966CC !important;}
 .color_9966CC {color:#9966CC !important;}
-.background_9966CC {color:#9966CC !important;}
-.background_Amethyst {color:#9966CC !important;}
+.background_9966CC {background-color:#9966CC !important;}
+.border_9966CC {border-color:#9966CC !important;}
+
+.background_Amethyst {background-color:#9966CC !important;}
+.border_Amethyst {border-color:#9966CC !important;}
+
 .BlueViolet {color:#8A2BE2 !important;}
 .color_8A2BE2 {color:#8A2BE2 !important;}
-.background_8A2BE2 {color:#8A2BE2 !important;}
-.background_BlueViolet {color:#8A2BE2 !important;}
+.background_8A2BE2 {background-color:#8A2BE2 !important;}
+.border_8A2BE2 {border-color:#8A2BE2 !important;}
+
+.background_BlueViolet {background-color:#8A2BE2 !important;}
+.border_BlueViolet {border-color:#8A2BE2 !important;}
+
 .DarkViolet {color:#9400D3 !important;}
 .color_9400D3 {color:#9400D3 !important;}
-.background_9400D3 {color:#9400D3 !important;}
-.background_DarkViolet {color:#9400D3 !important;}
+.background_9400D3 {background-color:#9400D3 !important;}
+.border_9400D3 {border-color:#9400D3 !important;}
+
+.background_DarkViolet {background-color:#9400D3 !important;}
+.border_DarkViolet {border-color:#9400D3 !important;}
+
 .DarkOrchid {color:#9932CC !important;}
 .color_9932CC {color:#9932CC !important;}
-.background_9932CC {color:#9932CC !important;}
-.background_DarkOrchid {color:#9932CC !important;}
+.background_9932CC {background-color:#9932CC !important;}
+.border_9932CC {border-color:#9932CC !important;}
+
+.background_DarkOrchid {background-color:#9932CC !important;}
+.border_DarkOrchid {border-color:#9932CC !important;}
+
 .DarkMagenta {color:#8B008B !important;}
 .color_8B008B {color:#8B008B !important;}
-.background_8B008B {color:#8B008B !important;}
-.background_DarkMagenta {color:#8B008B !important;}
+.background_8B008B {background-color:#8B008B !important;}
+.border_8B008B {border-color:#8B008B !important;}
+
+.background_DarkMagenta {background-color:#8B008B !important;}
+.border_DarkMagenta {border-color:#8B008B !important;}
+
 .Purple {color:#800080 !important;}
 .color_800080 {color:#800080 !important;}
-.background_800080 {color:#800080 !important;}
-.background_Purple {color:#800080 !important;}
+.background_800080 {background-color:#800080 !important;}
+.border_800080 {border-color:#800080 !important;}
+
+.background_Purple {background-color:#800080 !important;}
+.border_Purple {border-color:#800080 !important;}
+
 .Indigo {color:#4B0082 !important;}
 .color_4B0082 {color:#4B0082 !important;}
-.background_4B0082 {color:#4B0082 !important;}
-.background_Indigo {color:#4B0082 !important;}
+.background_4B0082 {background-color:#4B0082 !important;}
+.border_4B0082 {border-color:#4B0082 !important;}
+
+.background_Indigo {background-color:#4B0082 !important;}
+.border_Indigo {border-color:#4B0082 !important;}
+
 .SlateBlue {color:#6A5ACD !important;}
 .color_6A5ACD {color:#6A5ACD !important;}
-.background_6A5ACD {color:#6A5ACD !important;}
-.background_SlateBlue {color:#6A5ACD !important;}
+.background_6A5ACD {background-color:#6A5ACD !important;}
+.border_6A5ACD {border-color:#6A5ACD !important;}
+
+.background_SlateBlue {background-color:#6A5ACD !important;}
+.border_SlateBlue {border-color:#6A5ACD !important;}
+
 .DarkSlateBlue {color:#483D8B !important;}
 .color_483D8B {color:#483D8B !important;}
-.background_483D8B {color:#483D8B !important;}
-.background_DarkSlateBlue {color:#483D8B !important;}
+.background_483D8B {background-color:#483D8B !important;}
+.border_483D8B {border-color:#483D8B !important;}
+
+.background_DarkSlateBlue {background-color:#483D8B !important;}
+.border_DarkSlateBlue {border-color:#483D8B !important;}
+
 .MediumSlateBlue {color:#7B68EE !important;}
 .color_7B68EE {color:#7B68EE !important;}
-.background_7B68EE {color:#7B68EE !important;}
-.background_MediumSlateBlue {color:#7B68EE !important;}
+.background_7B68EE {background-color:#7B68EE !important;}
+.border_7B68EE {border-color:#7B68EE !important;}
+
+.background_MediumSlateBlue {background-color:#7B68EE !important;}
+.border_MediumSlateBlue {border-color:#7B68EE !important;}
+
 /* 
  * Greens
  */
 .GreenYellow {color:#ADFF2F !important;}
 .color_ADFF2F {color:#ADFF2F !important;}
-.background_ADFF2F {color:#ADFF2F !important;}
-.background_GreenYellow {color:#ADFF2F !important;}
+.background_ADFF2F {background-color:#ADFF2F !important;}
+.border_ADFF2F {border-color:#ADFF2F !important;}
+
+.background_GreenYellow {background-color:#ADFF2F !important;}
+.border_GreenYellow {border-color:#ADFF2F !important;}
+
 .Chartreuse {color:#7FFF00 !important;}
 .color_7FFF00 {color:#7FFF00 !important;}
-.background_7FFF00 {color:#7FFF00 !important;}
-.background_Chartreuse {color:#7FFF00 !important;}
+.background_7FFF00 {background-color:#7FFF00 !important;}
+.border_7FFF00 {border-color:#7FFF00 !important;}
+
+.background_Chartreuse {background-color:#7FFF00 !important;}
+.border_Chartreuse {border-color:#7FFF00 !important;}
+
 .LawnGreen {color:#7CFC00 !important;}
 .color_7CFC00 {color:#7CFC00 !important;}
-.background_7CFC00 {color:#7CFC00 !important;}
-.background_LawnGreen {color:#7CFC00 !important;}
+.background_7CFC00 {background-color:#7CFC00 !important;}
+.border_7CFC00 {border-color:#7CFC00 !important;}
+
+.background_LawnGreen {background-color:#7CFC00 !important;}
+.border_LawnGreen {border-color:#7CFC00 !important;}
+
 .Lime {color:#00FF00 !important;}
 .color_00FF00 {color:#00FF00 !important;}
-.background_00FF00 {color:#00FF00 !important;}
-.background_Lime {color:#00FF00 !important;}
+.background_00FF00 {background-color:#00FF00 !important;}
+.border_00FF00 {border-color:#00FF00 !important;}
+
+.background_Lime {background-color:#00FF00 !important;}
+.border_Lime {border-color:#00FF00 !important;}
+
 .LimeGreen {color:#32CD32 !important;}
 .color_32CD32 {color:#32CD32 !important;}
-.background_32CD32 {color:#32CD32 !important;}
-.background_LimeGreen {color:#32CD32 !important;}
+.background_32CD32 {background-color:#32CD32 !important;}
+.border_32CD32 {border-color:#32CD32 !important;}
+
+.background_LimeGreen {background-color:#32CD32 !important;}
+.border_LimeGreen {border-color:#32CD32 !important;}
+
 .PaleGreen {color:#98FB98 !important;}
 .color_98FB98 {color:#98FB98 !important;}
-.background_98FB98 {color:#98FB98 !important;}
-.background_PaleGreen {color:#98FB98 !important;}
+.background_98FB98 {background-color:#98FB98 !important;}
+.border_98FB98 {border-color:#98FB98 !important;}
+
+.background_PaleGreen {background-color:#98FB98 !important;}
+.border_PaleGreen {border-color:#98FB98 !important;}
+
 .LightGreen {color:#90EE90 !important;}
 .color_90EE90 {color:#90EE90 !important;}
-.background_90EE90 {color:#90EE90 !important;}
-.background_LightGreen {color:#90EE90 !important;}
+.background_90EE90 {background-color:#90EE90 !important;}
+.border_90EE90 {border-color:#90EE90 !important;}
+
+.background_LightGreen {background-color:#90EE90 !important;}
+.border_LightGreen {border-color:#90EE90 !important;}
+
 .MediumSpringGreen {color:#00FA9A !important;}
 .color_00FA9A {color:#00FA9A !important;}
-.background_00FA9A {color:#00FA9A !important;}
-.background_MediumSpringGreen {color:#00FA9A !important;}
+.background_00FA9A {background-color:#00FA9A !important;}
+.border_00FA9A {border-color:#00FA9A !important;}
+
+.background_MediumSpringGreen {background-color:#00FA9A !important;}
+.border_MediumSpringGreen {border-color:#00FA9A !important;}
+
 .SpringGreen {color:#00FF7F !important;}
 .color_00FF7F {color:#00FF7F !important;}
-.background_00FF7F {color:#00FF7F !important;}
-.background_SpringGreen {color:#00FF7F !important;}
+.background_00FF7F {background-color:#00FF7F !important;}
+.border_00FF7F {border-color:#00FF7F !important;}
+
+.background_SpringGreen {background-color:#00FF7F !important;}
+.border_SpringGreen {border-color:#00FF7F !important;}
+
 .MediumSeaGreen {color:#3CB371 !important;}
 .color_3CB371 {color:#3CB371 !important;}
-.background_3CB371 {color:#3CB371 !important;}
-.background_MediumSeaGreen {color:#3CB371 !important;}
+.background_3CB371 {background-color:#3CB371 !important;}
+.border_3CB371 {border-color:#3CB371 !important;}
+
+.background_MediumSeaGreen {background-color:#3CB371 !important;}
+.border_MediumSeaGreen {border-color:#3CB371 !important;}
+
 .SeaGreen {color:#2E8B57 !important;}
 .color_2E8B57 {color:#2E8B57 !important;}
-.background_2E8B57 {color:#2E8B57 !important;}
-.background_SeaGreen {color:#2E8B57 !important;}
+.background_2E8B57 {background-color:#2E8B57 !important;}
+.border_2E8B57 {border-color:#2E8B57 !important;}
+
+.background_SeaGreen {background-color:#2E8B57 !important;}
+.border_SeaGreen {border-color:#2E8B57 !important;}
+
 .ForestGreen {color:#228B22 !important;}
 .color_228B22 {color:#228B22 !important;}
-.background_228B22 {color:#228B22 !important;}
-.background_ForestGreen {color:#228B22 !important;}
+.background_228B22 {background-color:#228B22 !important;}
+.border_228B22 {border-color:#228B22 !important;}
+
+.background_ForestGreen {background-color:#228B22 !important;}
+.border_ForestGreen {border-color:#228B22 !important;}
+
 .Green {color:#008000 !important;}
 .color_008000 {color:#008000 !important;}
-.background_008000 {color:#008000 !important;}
-.background_Green {color:#008000 !important;}
+.background_008000 {background-color:#008000 !important;}
+.border_008000 {border-color:#008000 !important;}
+
+.background_Green {background-color:#008000 !important;}
+.border_Green {border-color:#008000 !important;}
+
 .DarkGreen {color:#006400 !important;}
 .color_006400 {color:#006400 !important;}
-.background_006400 {color:#006400 !important;}
-.background_DarkGreen {color:#006400 !important;}
+.background_006400 {background-color:#006400 !important;}
+.border_006400 {border-color:#006400 !important;}
+
+.background_DarkGreen {background-color:#006400 !important;}
+.border_DarkGreen {border-color:#006400 !important;}
+
 .YellowGreen {color:#9ACD32 !important;}
 .color_9ACD32 {color:#9ACD32 !important;}
-.background_9ACD32 {color:#9ACD32 !important;}
-.background_YellowGreen {color:#9ACD32 !important;}
+.background_9ACD32 {background-color:#9ACD32 !important;}
+.border_9ACD32 {border-color:#9ACD32 !important;}
+
+.background_YellowGreen {background-color:#9ACD32 !important;}
+.border_YellowGreen {border-color:#9ACD32 !important;}
+
 .OliveDrab {color:#6B8E23 !important;}
 .color_6B8E23 {color:#6B8E23 !important;}
-.background_6B8E23 {color:#6B8E23 !important;}
-.background_OliveDrab {color:#6B8E23 !important;}
+.background_6B8E23 {background-color:#6B8E23 !important;}
+.border_6B8E23 {border-color:#6B8E23 !important;}
+
+.background_OliveDrab {background-color:#6B8E23 !important;}
+.border_OliveDrab {border-color:#6B8E23 !important;}
+
 .Olive {color:#808000 !important;}
 .color_808000 {color:#808000 !important;}
-.background_808000 {color:#808000 !important;}
-.background_Olive {color:#808000 !important;}
+.background_808000 {background-color:#808000 !important;}
+.border_808000 {border-color:#808000 !important;}
+
+.background_Olive {background-color:#808000 !important;}
+.border_Olive {border-color:#808000 !important;}
+
 .DarkOliveGreen {color:#556B2F !important;}
 .color_556B2F {color:#556B2F !important;}
-.background_556B2F {color:#556B2F !important;}
-.background_DarkOliveGreen {color:#556B2F !important;}
+.background_556B2F {background-color:#556B2F !important;}
+.border_556B2F {border-color:#556B2F !important;}
+
+.background_DarkOliveGreen {background-color:#556B2F !important;}
+.border_DarkOliveGreen {border-color:#556B2F !important;}
+
 .MediumAquamarine {color:#66CDAA !important;}
 .color_66CDAA {color:#66CDAA !important;}
-.background_66CDAA {color:#66CDAA !important;}
-.background_MediumAquamarine {color:#66CDAA !important;}
+.background_66CDAA {background-color:#66CDAA !important;}
+.border_66CDAA {border-color:#66CDAA !important;}
+
+.background_MediumAquamarine {background-color:#66CDAA !important;}
+.border_MediumAquamarine {border-color:#66CDAA !important;}
+
 .DarkSeaGreen {color:#8FBC8F !important;}
 .color_8FBC8F {color:#8FBC8F !important;}
-.background_8FBC8F {color:#8FBC8F !important;}
-.background_DarkSeaGreen {color:#8FBC8F !important;}
+.background_8FBC8F {background-color:#8FBC8F !important;}
+.border_8FBC8F {border-color:#8FBC8F !important;}
+
+.background_DarkSeaGreen {background-color:#8FBC8F !important;}
+.border_DarkSeaGreen {border-color:#8FBC8F !important;}
+
 .LightSeaGreen {color:#20B2AA !important;}
 .color_20B2AA {color:#20B2AA !important;}
-.background_20B2AA {color:#20B2AA !important;}
-.background_LightSeaGreen {color:#20B2AA !important;}
+.background_20B2AA {background-color:#20B2AA !important;}
+.border_20B2AA {border-color:#20B2AA !important;}
+
+.background_LightSeaGreen {background-color:#20B2AA !important;}
+.border_LightSeaGreen {border-color:#20B2AA !important;}
+
 .DarkCyan {color:#008B8B !important;}
 .color_008B8B {color:#008B8B !important;}
-.background_008B8B {color:#008B8B !important;}
-.background_DarkCyan {color:#008B8B !important;}
+.background_008B8B {background-color:#008B8B !important;}
+.border_008B8B {border-color:#008B8B !important;}
+
+.background_DarkCyan {background-color:#008B8B !important;}
+.border_DarkCyan {border-color:#008B8B !important;}
+
 .Teal {color:#008080 !important;}
 .color_008080 {color:#008080 !important;}
-.background_008080 {color:#008080 !important;}
-.background_Teal {color:#008080 !important;}
+.background_008080 {background-color:#008080 !important;}
+.border_008080 {border-color:#008080 !important;}
+
+.background_Teal {background-color:#008080 !important;}
+.border_Teal {border-color:#008080 !important;}
+
 /*
  * Blues/Cyans
  */
 .Aqua {color:#00FFFF !important;}
 .color_00FFFF {color:#00FFFF !important;}
-.background_00FFFF {color:#00FFFF !important;}
-.background_Aqua {color:#00FFFF !important;}
+.background_00FFFF {background-color:#00FFFF !important;}
+.border_00FFFF {border-color:#00FFFF !important;}
+
+.background_Aqua {background-color:#00FFFF !important;}
+.border_Aqua {border-color:#00FFFF !important;}
+
 .Cyan {color:#00FFFF !important;}
 .color_00FFFF {color:#00FFFF !important;}
-.background_00FFFF {color:#00FFFF !important;}
-.background_Cyan {color:#00FFFF !important;}
+.background_00FFFF {background-color:#00FFFF !important;}
+.border_00FFFF {border-color:#00FFFF !important;}
+
+.background_Cyan {background-color:#00FFFF !important;}
+.border_Cyan {border-color:#00FFFF !important;}
+
 .LightCyan {color:#E0FFFF !important;}
 .color_E0FFFF {color:#E0FFFF !important;}
-.background_E0FFFF {color:#E0FFFF !important;}
-.background_LightCyan {color:#E0FFFF !important;}
+.background_E0FFFF {background-color:#E0FFFF !important;}
+.border_E0FFFF {border-color:#E0FFFF !important;}
+
+.background_LightCyan {background-color:#E0FFFF !important;}
+.border_LightCyan {border-color:#E0FFFF !important;}
+
 .PaleTurquoise {color:#AFEEEE !important;}
 .color_AFEEEE {color:#AFEEEE !important;}
-.background_AFEEEE {color:#AFEEEE !important;}
-.background_PaleTurquoise {color:#AFEEEE !important;}
+.background_AFEEEE {background-color:#AFEEEE !important;}
+.border_AFEEEE {border-color:#AFEEEE !important;}
+
+.background_PaleTurquoise {background-color:#AFEEEE !important;}
+.border_PaleTurquoise {border-color:#AFEEEE !important;}
+
 .Aquamarine {color:#7FFFD4 !important;}
 .color_7FFFD4 {color:#7FFFD4 !important;}
-.background_7FFFD4 {color:#7FFFD4 !important;}
-.background_Aquamarine {color:#7FFFD4 !important;}
+.background_7FFFD4 {background-color:#7FFFD4 !important;}
+.border_7FFFD4 {border-color:#7FFFD4 !important;}
+
+.background_Aquamarine {background-color:#7FFFD4 !important;}
+.border_Aquamarine {border-color:#7FFFD4 !important;}
+
 .Turquoise {color:#40E0D0 !important;}
 .color_40E0D0 {color:#40E0D0 !important;}
-.background_40E0D0 {color:#40E0D0 !important;}
-.background_Turquoise {color:#40E0D0 !important;}
+.background_40E0D0 {background-color:#40E0D0 !important;}
+.border_40E0D0 {border-color:#40E0D0 !important;}
+
+.background_Turquoise {background-color:#40E0D0 !important;}
+.border_Turquoise {border-color:#40E0D0 !important;}
+
 .MediumTurquoise {color:#48D1CC !important;}
 .color_48D1CC {color:#48D1CC !important;}
-.background_48D1CC {color:#48D1CC !important;}
-.background_MediumTurquoise {color:#48D1CC !important;}
+.background_48D1CC {background-color:#48D1CC !important;}
+.border_48D1CC {border-color:#48D1CC !important;}
+
+.background_MediumTurquoise {background-color:#48D1CC !important;}
+.border_MediumTurquoise {border-color:#48D1CC !important;}
+
 .DarkTurquoise {color:#00CED1 !important;}
 .color_00CED1 {color:#00CED1 !important;}
-.background_00CED1 {color:#00CED1 !important;}
-.background_DarkTurquoise {color:#00CED1 !important;}
+.background_00CED1 {background-color:#00CED1 !important;}
+.border_00CED1 {border-color:#00CED1 !important;}
+
+.background_DarkTurquoise {background-color:#00CED1 !important;}
+.border_DarkTurquoise {border-color:#00CED1 !important;}
+
 .CadetBlue {color:#5F9EA0 !important;}
 .color_5F9EA0 {color:#5F9EA0 !important;}
-.background_5F9EA0 {color:#5F9EA0 !important;}
-.background_CadetBlue {color:#5F9EA0 !important;}
+.background_5F9EA0 {background-color:#5F9EA0 !important;}
+.border_5F9EA0 {border-color:#5F9EA0 !important;}
+
+.background_CadetBlue {background-color:#5F9EA0 !important;}
+.border_CadetBlue {border-color:#5F9EA0 !important;}
+
 .SteelBlue {color:#4682B4 !important;}
 .color_4682B4 {color:#4682B4 !important;}
-.background_4682B4 {color:#4682B4 !important;}
-.background_SteelBlue {color:#4682B4 !important;}
+.background_4682B4 {background-color:#4682B4 !important;}
+.border_4682B4 {border-color:#4682B4 !important;}
+
+.background_SteelBlue {background-color:#4682B4 !important;}
+.border_SteelBlue {border-color:#4682B4 !important;}
+
 .LightSteelBlue {color:#B0C4DE !important;}
 .color_B0C4DE {color:#B0C4DE !important;}
-.background_B0C4DE {color:#B0C4DE !important;}
-.background_LightSteelBlue {color:#B0C4DE !important;}
+.background_B0C4DE {background-color:#B0C4DE !important;}
+.border_B0C4DE {border-color:#B0C4DE !important;}
+
+.background_LightSteelBlue {background-color:#B0C4DE !important;}
+.border_LightSteelBlue {border-color:#B0C4DE !important;}
+
 .PowderBlue {color:#B0E0E6 !important;}
 .color_B0E0E6 {color:#B0E0E6 !important;}
-.background_B0E0E6 {color:#B0E0E6 !important;}
-.background_PowderBlue {color:#B0E0E6 !important;}
+.background_B0E0E6 {background-color:#B0E0E6 !important;}
+.border_B0E0E6 {border-color:#B0E0E6 !important;}
+
+.background_PowderBlue {background-color:#B0E0E6 !important;}
+.border_PowderBlue {border-color:#B0E0E6 !important;}
+
 .LightBlue {color:#ADD8E6 !important;}
 .color_ADD8E6 {color:#ADD8E6 !important;}
-.background_ADD8E6 {color:#ADD8E6 !important;}
-.background_LightBlue {color:#ADD8E6 !important;}
+.background_ADD8E6 {background-color:#ADD8E6 !important;}
+.border_ADD8E6 {border-color:#ADD8E6 !important;}
+
+.background_LightBlue {background-color:#ADD8E6 !important;}
+.border_LightBlue {border-color:#ADD8E6 !important;}
+
 .SkyBlue {color:#87CEEB !important;}
 .color_87CEEB {color:#87CEEB !important;}
-.background_87CEEB {color:#87CEEB !important;}
-.background_SkyBlue {color:#87CEEB !important;}
+.background_87CEEB {background-color:#87CEEB !important;}
+.border_87CEEB {border-color:#87CEEB !important;}
+
+.background_SkyBlue {background-color:#87CEEB !important;}
+.border_SkyBlue {border-color:#87CEEB !important;}
+
 .LightSkyBlue {color:#87CEFA !important;}
 .color_87CEFA {color:#87CEFA !important;}
-.background_87CEFA {color:#87CEFA !important;}
-.background_LightSkyBlue {color:#87CEFA !important;}
+.background_87CEFA {background-color:#87CEFA !important;}
+.border_87CEFA {border-color:#87CEFA !important;}
+
+.background_LightSkyBlue {background-color:#87CEFA !important;}
+.border_LightSkyBlue {border-color:#87CEFA !important;}
+
 .DeepSkyBlue {color:#00BFFF !important;}
 .color_00BFFF {color:#00BFFF !important;}
-.background_00BFFF {color:#00BFFF !important;}
-.background_DeepSkyBlue {color:#00BFFF !important;}
+.background_00BFFF {background-color:#00BFFF !important;}
+.border_00BFFF {border-color:#00BFFF !important;}
+
+.background_DeepSkyBlue {background-color:#00BFFF !important;}
+.border_DeepSkyBlue {border-color:#00BFFF !important;}
+
 .DodgerBlue {color:#1E90FF !important;}
 .color_1E90FF {color:#1E90FF !important;}
-.background_1E90FF {color:#1E90FF !important;}
-.background_DodgerBlue {color:#1E90FF !important;}
+.background_1E90FF {background-color:#1E90FF !important;}
+.border_1E90FF {border-color:#1E90FF !important;}
+
+.background_DodgerBlue {background-color:#1E90FF !important;}
+.border_DodgerBlue {border-color:#1E90FF !important;}
+
 .CornflowerBlue {color:#6495ED !important;}
 .color_6495ED {color:#6495ED !important;}
-.background_6495ED {color:#6495ED !important;}
-.background_CornflowerBlue {color:#6495ED !important;}
+.background_6495ED {background-color:#6495ED !important;}
+.border_6495ED {border-color:#6495ED !important;}
+
+.background_CornflowerBlue {background-color:#6495ED !important;}
+.border_CornflowerBlue {border-color:#6495ED !important;}
+
 .MediumSlateBlue {color:#7B68EE !important;}
 .color_7B68EE {color:#7B68EE !important;}
-.background_7B68EE {color:#7B68EE !important;}
-.background_MediumSlateBlue {color:#7B68EE !important;}
+.background_7B68EE {background-color:#7B68EE !important;}
+.border_7B68EE {border-color:#7B68EE !important;}
+
+.background_MediumSlateBlue {background-color:#7B68EE !important;}
+.border_MediumSlateBlue {border-color:#7B68EE !important;}
+
 .RoyalBlue {color:#4169E1 !important;}
 .color_4169E1 {color:#4169E1 !important;}
-.background_4169E1 {color:#4169E1 !important;}
-.background_RoyalBlue {color:#4169E1 !important;}
+.background_4169E1 {background-color:#4169E1 !important;}
+.border_4169E1 {border-color:#4169E1 !important;}
+
+.background_RoyalBlue {background-color:#4169E1 !important;}
+.border_RoyalBlue {border-color:#4169E1 !important;}
+
 .Blue {color:#0000FF !important;}
 .color_0000FF {color:#0000FF !important;}
-.background_0000FF {color:#0000FF !important;}
-.background_Blue {color:#0000FF !important;}
+.background_0000FF {background-color:#0000FF !important;}
+.border_0000FF {border-color:#0000FF !important;}
+
+.background_Blue {background-color:#0000FF !important;}
+.border_Blue {border-color:#0000FF !important;}
+
 .MediumBlue {color:#0000CD !important;}
 .color_0000CD {color:#0000CD !important;}
-.background_0000CD {color:#0000CD !important;}
-.background_MediumBlue {color:#0000CD !important;}
+.background_0000CD {background-color:#0000CD !important;}
+.border_0000CD {border-color:#0000CD !important;}
+
+.background_MediumBlue {background-color:#0000CD !important;}
+.border_MediumBlue {border-color:#0000CD !important;}
+
 .DarkBlue {color:#00008B !important;}
 .color_00008B {color:#00008B !important;}
-.background_00008B {color:#00008B !important;}
-.background_DarkBlue {color:#00008B !important;}
+.background_00008B {background-color:#00008B !important;}
+.border_00008B {border-color:#00008B !important;}
+
+.background_DarkBlue {background-color:#00008B !important;}
+.border_DarkBlue {border-color:#00008B !important;}
+
 .Navy {color:#000080 !important;}
 .color_000080 {color:#000080 !important;}
-.background_000080 {color:#000080 !important;}
-.background_Navy {color:#000080 !important;}
+.background_000080 {background-color:#000080 !important;}
+.border_000080 {border-color:#000080 !important;}
+
+.background_Navy {background-color:#000080 !important;}
+.border_Navy {border-color:#000080 !important;}
+
 .MidnightBlue {color:#191970 !important;}
 .color_191970 {color:#191970 !important;}
-.background_191970 {color:#191970 !important;}
-.background_MidnightBlue {color:#191970 !important;}
+.background_191970 {background-color:#191970 !important;}
+.border_191970 {border-color:#191970 !important;}
+
+.background_MidnightBlue {background-color:#191970 !important;}
+.border_MidnightBlue {border-color:#191970 !important;}
+
 /* 
  * Browns
  */
 .Cornsilk {color:#FFF8DC !important;}
 .color_FFF8DC {color:#FFF8DC !important;}
-.background_FFF8DC {color:#FFF8DC !important;}
-.background_Cornsilk {color:#FFF8DC !important;}
+.background_FFF8DC {background-color:#FFF8DC !important;}
+.border_FFF8DC {border-color:#FFF8DC !important;}
+
+.background_Cornsilk {background-color:#FFF8DC !important;}
+.border_Cornsilk {border-color:#FFF8DC !important;}
+
 .BlanchedAlmond {color:#FFEBCD !important;}
 .color_FFEBCD {color:#FFEBCD !important;}
-.background_FFEBCD {color:#FFEBCD !important;}
-.background_BlanchedAlmond {color:#FFEBCD !important;}
+.background_FFEBCD {background-color:#FFEBCD !important;}
+.border_FFEBCD {border-color:#FFEBCD !important;}
+
+.background_BlanchedAlmond {background-color:#FFEBCD !important;}
+.border_BlanchedAlmond {border-color:#FFEBCD !important;}
+
 .Bisque {color:#FFE4C4 !important;}
 .color_FFE4C4 {color:#FFE4C4 !important;}
-.background_FFE4C4 {color:#FFE4C4 !important;}
-.background_Bisque {color:#FFE4C4 !important;}
+.background_FFE4C4 {background-color:#FFE4C4 !important;}
+.border_FFE4C4 {border-color:#FFE4C4 !important;}
+
+.background_Bisque {background-color:#FFE4C4 !important;}
+.border_Bisque {border-color:#FFE4C4 !important;}
+
 .NavajoWhite {color:#FFDEAD !important;}
 .color_FFDEAD {color:#FFDEAD !important;}
-.background_FFDEAD {color:#FFDEAD !important;}
-.background_NavajoWhite {color:#FFDEAD !important;}
+.background_FFDEAD {background-color:#FFDEAD !important;}
+.border_FFDEAD {border-color:#FFDEAD !important;}
+
+.background_NavajoWhite {background-color:#FFDEAD !important;}
+.border_NavajoWhite {border-color:#FFDEAD !important;}
+
 .Wheat {color:#F5DEB3 !important;}
 .color_F5DEB3 {color:#F5DEB3 !important;}
-.background_F5DEB3 {color:#F5DEB3 !important;}
-.background_Wheat {color:#F5DEB3 !important;}
+.background_F5DEB3 {background-color:#F5DEB3 !important;}
+.border_F5DEB3 {border-color:#F5DEB3 !important;}
+
+.background_Wheat {background-color:#F5DEB3 !important;}
+.border_Wheat {border-color:#F5DEB3 !important;}
+
 .BurlyWood {color:#DEB887 !important;}
 .color_DEB887 {color:#DEB887 !important;}
-.background_DEB887 {color:#DEB887 !important;}
-.background_BurlyWood {color:#DEB887 !important;}
+.background_DEB887 {background-color:#DEB887 !important;}
+.border_DEB887 {border-color:#DEB887 !important;}
+
+.background_BurlyWood {background-color:#DEB887 !important;}
+.border_BurlyWood {border-color:#DEB887 !important;}
+
 .Tan {color:#D2B48C !important;}
 .color_D2B48C {color:#D2B48C !important;}
-.background_D2B48C {color:#D2B48C !important;}
-.background_Tan {color:#D2B48C !important;}
+.background_D2B48C {background-color:#D2B48C !important;}
+.border_D2B48C {border-color:#D2B48C !important;}
+
+.background_Tan {background-color:#D2B48C !important;}
+.border_Tan {border-color:#D2B48C !important;}
+
 .RosyBrown {color:#BC8F8F !important;}
 .color_BC8F8F {color:#BC8F8F !important;}
-.background_BC8F8F {color:#BC8F8F !important;}
-.background_RosyBrown {color:#BC8F8F !important;}
+.background_BC8F8F {background-color:#BC8F8F !important;}
+.border_BC8F8F {border-color:#BC8F8F !important;}
+
+.background_RosyBrown {background-color:#BC8F8F !important;}
+.border_RosyBrown {border-color:#BC8F8F !important;}
+
 .SandyBrown {color:#F4A460 !important;}
 .color_F4A460 {color:#F4A460 !important;}
-.background_F4A460 {color:#F4A460 !important;}
-.background_SandyBrown {color:#F4A460 !important;}
+.background_F4A460 {background-color:#F4A460 !important;}
+.border_F4A460 {border-color:#F4A460 !important;}
+
+.background_SandyBrown {background-color:#F4A460 !important;}
+.border_SandyBrown {border-color:#F4A460 !important;}
+
 .Goldenrod {color:#DAA520 !important;}
 .color_DAA520 {color:#DAA520 !important;}
-.background_DAA520 {color:#DAA520 !important;}
-.background_Goldenrod {color:#DAA520 !important;}
+.background_DAA520 {background-color:#DAA520 !important;}
+.border_DAA520 {border-color:#DAA520 !important;}
+
+.background_Goldenrod {background-color:#DAA520 !important;}
+.border_Goldenrod {border-color:#DAA520 !important;}
+
 .DarkGoldenrod {color:#B8860B !important;}
 .color_B8860B {color:#B8860B !important;}
-.background_B8860B {color:#B8860B !important;}
-.background_DarkGoldenrod {color:#B8860B !important;}
+.background_B8860B {background-color:#B8860B !important;}
+.border_B8860B {border-color:#B8860B !important;}
+
+.background_DarkGoldenrod {background-color:#B8860B !important;}
+.border_DarkGoldenrod {border-color:#B8860B !important;}
+
 .Peru {color:#CD853F !important;}
 .color_CD853F {color:#CD853F !important;}
-.background_CD853F {color:#CD853F !important;}
-.background_Peru {color:#CD853F !important;}
+.background_CD853F {background-color:#CD853F !important;}
+.border_CD853F {border-color:#CD853F !important;}
+
+.background_Peru {background-color:#CD853F !important;}
+.border_Peru {border-color:#CD853F !important;}
+
 .Chocolate {color:#D2691E !important;}
 .color_D2691E {color:#D2691E !important;}
-.background_D2691E {color:#D2691E !important;}
-.background_Chocolate {color:#D2691E !important;}
+.background_D2691E {background-color:#D2691E !important;}
+.border_D2691E {border-color:#D2691E !important;}
+
+.background_Chocolate {background-color:#D2691E !important;}
+.border_Chocolate {border-color:#D2691E !important;}
+
 .SaddleBrown {color:#8B4513 !important;}
 .color_8B4513 {color:#8B4513 !important;}
-.background_8B4513 {color:#8B4513 !important;}
-.background_SaddleBrown {color:#8B4513 !important;}
+.background_8B4513 {background-color:#8B4513 !important;}
+.border_8B4513 {border-color:#8B4513 !important;}
+
+.background_SaddleBrown {background-color:#8B4513 !important;}
+.border_SaddleBrown {border-color:#8B4513 !important;}
+
 .Sienna {color:#A0522D !important;}
 .color_A0522D {color:#A0522D !important;}
-.background_A0522D {color:#A0522D !important;}
-.background_Sienna {color:#A0522D !important;}
+.background_A0522D {background-color:#A0522D !important;}
+.border_A0522D {border-color:#A0522D !important;}
+
+.background_Sienna {background-color:#A0522D !important;}
+.border_Sienna {border-color:#A0522D !important;}
+
 .Brown {color:#A52A2A !important;}
 .color_A52A2A {color:#A52A2A !important;}
-.background_A52A2A {color:#A52A2A !important;}
-.background_Brown {color:#A52A2A !important;}
+.background_A52A2A {background-color:#A52A2A !important;}
+.border_A52A2A {border-color:#A52A2A !important;}
+
+.background_Brown {background-color:#A52A2A !important;}
+.border_Brown {border-color:#A52A2A !important;}
+
 .Maroon {color:#800000 !important;}
 .color_800000 {color:#800000 !important;}
-.background_800000 {color:#800000 !important;}
-.background_Maroon {color:#800000 !important;}
+.background_800000 {background-color:#800000 !important;}
+.border_800000 {border-color:#800000 !important;}
+
+.background_Maroon {background-color:#800000 !important;}
+.border_Maroon {border-color:#800000 !important;}
+
 /*
  * Whites
  */
 .White {color:#FFFFFF !important;}
 .color_FFFFFF {color:#FFFFFF !important;}
-.background_FFFFFF {color:#FFFFFF !important;}
-.background_White {color:#FFFFFF !important;}
+.background_FFFFFF {background-color:#FFFFFF !important;}
+.border_FFFFFF {border-color:#FFFFFF !important;}
+
+.background_White {background-color:#FFFFFF !important;}
+.border_White {border-color:#FFFFFF !important;}
+
 .Snow {color:#FFFAFA !important;}
 .color_FFFAFA {color:#FFFAFA !important;}
-.background_FFFAFA {color:#FFFAFA !important;}
-.background_Snow {color:#FFFAFA !important;}
+.background_FFFAFA {background-color:#FFFAFA !important;}
+.border_FFFAFA {border-color:#FFFAFA !important;}
+
+.background_Snow {background-color:#FFFAFA !important;}
+.border_Snow {border-color:#FFFAFA !important;}
+
 .Honeydew {color:#F0FFF0 !important;}
 .color_F0FFF0 {color:#F0FFF0 !important;}
-.background_F0FFF0 {color:#F0FFF0 !important;}
-.background_Honeydew {color:#F0FFF0 !important;}
+.background_F0FFF0 {background-color:#F0FFF0 !important;}
+.border_F0FFF0 {border-color:#F0FFF0 !important;}
+
+.background_Honeydew {background-color:#F0FFF0 !important;}
+.border_Honeydew {border-color:#F0FFF0 !important;}
+
 .MintCream {color:#F5FFFA !important;}
 .color_F5FFFA {color:#F5FFFA !important;}
-.background_F5FFFA {color:#F5FFFA !important;}
-.background_MintCream {color:#F5FFFA !important;}
+.background_F5FFFA {background-color:#F5FFFA !important;}
+.border_F5FFFA {border-color:#F5FFFA !important;}
+
+.background_MintCream {background-color:#F5FFFA !important;}
+.border_MintCream {border-color:#F5FFFA !important;}
+
 .Azure {color:#F0FFFF !important;}
 .color_F0FFFF {color:#F0FFFF !important;}
-.background_F0FFFF {color:#F0FFFF !important;}
-.background_Azure {color:#F0FFFF !important;}
+.background_F0FFFF {background-color:#F0FFFF !important;}
+.border_F0FFFF {border-color:#F0FFFF !important;}
+
+.background_Azure {background-color:#F0FFFF !important;}
+.border_Azure {border-color:#F0FFFF !important;}
+
 .AliceBlue {color:#F0F8FF !important;}
 .color_F0F8FF {color:#F0F8FF !important;}
-.background_F0F8FF {color:#F0F8FF !important;}
-.background_AliceBlue {color:#F0F8FF !important;}
+.background_F0F8FF {background-color:#F0F8FF !important;}
+.border_F0F8FF {border-color:#F0F8FF !important;}
+
+.background_AliceBlue {background-color:#F0F8FF !important;}
+.border_AliceBlue {border-color:#F0F8FF !important;}
+
 .GhostWhite {color:#F8F8FF !important;}
 .color_F8F8FF {color:#F8F8FF !important;}
-.background_F8F8FF {color:#F8F8FF !important;}
-.background_GhostWhite {color:#F8F8FF !important;}
+.background_F8F8FF {background-color:#F8F8FF !important;}
+.border_F8F8FF {border-color:#F8F8FF !important;}
+
+.background_GhostWhite {background-color:#F8F8FF !important;}
+.border_GhostWhite {border-color:#F8F8FF !important;}
+
 .WhiteSmoke {color:#F5F5F5 !important;}
 .color_F5F5F5 {color:#F5F5F5 !important;}
-.background_F5F5F5 {color:#F5F5F5 !important;}
-.background_WhiteSmoke {color:#F5F5F5 !important;}
+.background_F5F5F5 {background-color:#F5F5F5 !important;}
+.border_F5F5F5 {border-color:#F5F5F5 !important;}
+
+.background_WhiteSmoke {background-color:#F5F5F5 !important;}
+.border_WhiteSmoke {border-color:#F5F5F5 !important;}
+
 .Seashell {color:#FFF5EE !important;}
 .color_FFF5EE {color:#FFF5EE !important;}
-.background_FFF5EE {color:#FFF5EE !important;}
-.background_Seashell {color:#FFF5EE !important;}
+.background_FFF5EE {background-color:#FFF5EE !important;}
+.border_FFF5EE {border-color:#FFF5EE !important;}
+
+.background_Seashell {background-color:#FFF5EE !important;}
+.border_Seashell {border-color:#FFF5EE !important;}
+
 .Beige {color:#F5F5DC !important;}
 .color_F5F5DC {color:#F5F5DC !important;}
-.background_F5F5DC {color:#F5F5DC !important;}
-.background_Beige {color:#F5F5DC !important;}
+.background_F5F5DC {background-color:#F5F5DC !important;}
+.border_F5F5DC {border-color:#F5F5DC !important;}
+
+.background_Beige {background-color:#F5F5DC !important;}
+.border_Beige {border-color:#F5F5DC !important;}
+
 .OldLace {color:#FDF5E6 !important;}
 .color_FDF5E6 {color:#FDF5E6 !important;}
-.background_FDF5E6 {color:#FDF5E6 !important;}
-.background_OldLace {color:#FDF5E6 !important;}
+.background_FDF5E6 {background-color:#FDF5E6 !important;}
+.border_FDF5E6 {border-color:#FDF5E6 !important;}
+
+.background_OldLace {background-color:#FDF5E6 !important;}
+.border_OldLace {border-color:#FDF5E6 !important;}
+
 .FloralWhite {color:#FFFAF0 !important;}
 .color_FFFAF0 {color:#FFFAF0 !important;}
-.background_FFFAF0 {color:#FFFAF0 !important;}
-.background_FloralWhite {color:#FFFAF0 !important;}
+.background_FFFAF0 {background-color:#FFFAF0 !important;}
+.border_FFFAF0 {border-color:#FFFAF0 !important;}
+
+.background_FloralWhite {background-color:#FFFAF0 !important;}
+.border_FloralWhite {border-color:#FFFAF0 !important;}
+
 .Ivory {color:#FFFFF0 !important;}
 .color_FFFFF0 {color:#FFFFF0 !important;}
-.background_FFFFF0 {color:#FFFFF0 !important;}
-.background_Ivory {color:#FFFFF0 !important;}
+.background_FFFFF0 {background-color:#FFFFF0 !important;}
+.border_FFFFF0 {border-color:#FFFFF0 !important;}
+
+.background_Ivory {background-color:#FFFFF0 !important;}
+.border_Ivory {border-color:#FFFFF0 !important;}
+
 .AntiqueWhite {color:#FAEBD7 !important;}
 .color_FAEBD7 {color:#FAEBD7 !important;}
-.background_FAEBD7 {color:#FAEBD7 !important;}
-.background_AntiqueWhite {color:#FAEBD7 !important;}
+.background_FAEBD7 {background-color:#FAEBD7 !important;}
+.border_FAEBD7 {border-color:#FAEBD7 !important;}
+
+.background_AntiqueWhite {background-color:#FAEBD7 !important;}
+.border_AntiqueWhite {border-color:#FAEBD7 !important;}
+
 .Linen {color:#FAF0E6 !important;}
 .color_FAF0E6 {color:#FAF0E6 !important;}
-.background_FAF0E6 {color:#FAF0E6 !important;}
-.background_Linen {color:#FAF0E6 !important;}
+.background_FAF0E6 {background-color:#FAF0E6 !important;}
+.border_FAF0E6 {border-color:#FAF0E6 !important;}
+
+.background_Linen {background-color:#FAF0E6 !important;}
+.border_Linen {border-color:#FAF0E6 !important;}
+
 .LavenderBlush {color:#FFF0F5 !important;}
 .color_FFF0F5 {color:#FFF0F5 !important;}
-.background_FFF0F5 {color:#FFF0F5 !important;}
-.background_LavenderBlush {color:#FFF0F5 !important;}
+.background_FFF0F5 {background-color:#FFF0F5 !important;}
+.border_FFF0F5 {border-color:#FFF0F5 !important;}
+
+.background_LavenderBlush {background-color:#FFF0F5 !important;}
+.border_LavenderBlush {border-color:#FFF0F5 !important;}
+
 .MistyRose {color:#FFE4E1 !important;}
 .color_FFE4E1 {color:#FFE4E1 !important;}
-.background_FFE4E1 {color:#FFE4E1 !important;}
-.background_MistyRose {color:#FFE4E1 !important;}
+.background_FFE4E1 {background-color:#FFE4E1 !important;}
+.border_FFE4E1 {border-color:#FFE4E1 !important;}
+
+.background_MistyRose {background-color:#FFE4E1 !important;}
+.border_MistyRose {border-color:#FFE4E1 !important;}
+
 /*
  * Greys
  */
 .Gainsboro {color:#DCDCDC !important;}
 .color_DCDCDC {color:#DCDCDC !important;}
-.background_DCDCDC {color:#DCDCDC !important;}
-.background_Gainsboro {color:#DCDCDC !important;}
+.background_DCDCDC {background-color:#DCDCDC !important;}
+.border_DCDCDC {border-color:#DCDCDC !important;}
+
+.background_Gainsboro {background-color:#DCDCDC !important;}
+.border_Gainsboro {border-color:#DCDCDC !important;}
+
 .LightGrey {color:#D3D3D3 !important;}
 .color_D3D3D3 {color:#D3D3D3 !important;}
-.background_D3D3D3 {color:#D3D3D3 !important;}
-.background_LightGrey {color:#D3D3D3 !important;}
+.background_D3D3D3 {background-color:#D3D3D3 !important;}
+.border_D3D3D3 {border-color:#D3D3D3 !important;}
+
+.background_LightGrey {background-color:#D3D3D3 !important;}
+.border_LightGrey {border-color:#D3D3D3 !important;}
+
 .Silver {color:#C0C0C0 !important;}
 .color_C0C0C0 {color:#C0C0C0 !important;}
-.background_C0C0C0 {color:#C0C0C0 !important;}
-.background_Silver {color:#C0C0C0 !important;}
+.background_C0C0C0 {background-color:#C0C0C0 !important;}
+.border_C0C0C0 {border-color:#C0C0C0 !important;}
+
+.background_Silver {background-color:#C0C0C0 !important;}
+.border_Silver {border-color:#C0C0C0 !important;}
+
 .DarkGray {color:#A9A9A9 !important;}
 .color_A9A9A9 {color:#A9A9A9 !important;}
-.background_A9A9A9 {color:#A9A9A9 !important;}
-.background_DarkGray {color:#A9A9A9 !important;}
+.background_A9A9A9 {background-color:#A9A9A9 !important;}
+.border_A9A9A9 {border-color:#A9A9A9 !important;}
+
+.background_DarkGray {background-color:#A9A9A9 !important;}
+.border_DarkGray {border-color:#A9A9A9 !important;}
+
 .Gray {color:#808080 !important;}
 .color_808080 {color:#808080 !important;}
-.background_808080 {color:#808080 !important;}
-.background_Gray {color:#808080 !important;}
+.background_808080 {background-color:#808080 !important;}
+.border_808080 {border-color:#808080 !important;}
+
+.background_Gray {background-color:#808080 !important;}
+.border_Gray {border-color:#808080 !important;}
+
 .DimGray {color:#696969 !important;}
 .color_696969 {color:#696969 !important;}
-.background_696969 {color:#696969 !important;}
-.background_DimGray {color:#696969 !important;}
+.background_696969 {background-color:#696969 !important;}
+.border_696969 {border-color:#696969 !important;}
+
+.background_DimGray {background-color:#696969 !important;}
+.border_DimGray {border-color:#696969 !important;}
+
 .LightSlateGray {color:#778899 !important;}
 .color_778899 {color:#778899 !important;}
-.background_778899 {color:#778899 !important;}
-.background_LightSlateGray {color:#778899 !important;}
+.background_778899 {background-color:#778899 !important;}
+.border_778899 {border-color:#778899 !important;}
+
+.background_LightSlateGray {background-color:#778899 !important;}
+.border_LightSlateGray {border-color:#778899 !important;}
+
 .SlateGray {color:#708090 !important;}
 .color_708090 {color:#708090 !important;}
-.background_708090 {color:#708090 !important;}
-.background_SlateGray {color:#708090 !important;}
+.background_708090 {background-color:#708090 !important;}
+.border_708090 {border-color:#708090 !important;}
+
+.background_SlateGray {background-color:#708090 !important;}
+.border_SlateGray {border-color:#708090 !important;}
+
 .DarkSlateGray {color:#2F4F4F !important;}
 .color_2F4F4F {color:#2F4F4F !important;}
-.background_2F4F4F {color:#2F4F4F !important;}
-.background_DarkSlateGray {color:#2F4F4F !important;}
+.background_2F4F4F {background-color:#2F4F4F !important;}
+.border_2F4F4F {border-color:#2F4F4F !important;}
+
+.background_DarkSlateGray {background-color:#2F4F4F !important;}
+.border_DarkSlateGray {border-color:#2F4F4F !important;}
+
 .Black {color:#000000 !important;}
 .color_000000 {color:#000000 !important;}
-.background_000000 {color:#000000 !important;}
-.background_Black {color:#000000 !important;}
+.background_000000 {background-color:#000000 !important;}
+.border_000000 {border-color:#000000 !important;}
+
+.background_Black {background-color:#000000 !important;}
+.border_Black {border-color:#000000 !important;}
+
