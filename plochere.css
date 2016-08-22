@@ -10,7 +10,10 @@
 .background-abyss  {background-color:#8DA399 !important; }
 .border-abyss  {border-color:#8DA399 !important; }
 
-acacia<td title="150" style="background-color:#5E716A; color:#FFF">150
+.acacia  {color:#5E716A !important; }
+.background-acacia  {background-color:#5E716A !important; }
+.border-acacia  {border-color:#5E716A !important; }
+
 .acaciagray  {color:#7D8984 !important; }
 .background-acaciagray  {background-color:#7D8984 !important; }
 .border-acaciagray  {border-color:#7D8984 !important; }
@@ -23,9 +26,19 @@ acacia<td title="150" style="background-color:#5E716A; color:#FFF">150
 .background-aden  {background-color:#6AAB8E !important; }
 .border-aden  {border-color:#6AAB8E !important; }
 
-admiral<td title="229" style="background-color:#50404D; color:#FFF">229
-african green<td title="187" style="background-color:#36454F; color:#FFF">187
-african night<td title="47" style="background-color:#43302E; color:#FFF">47
+.admiral  {color:#50404D !important; }
+.background-admiral  {background-color:#50404D !important; }
+.border-admiral  {border-color:#50404D !important; }
+
+.africangreen  {color:#36454F !important; }
+.background-africangreen  {background-color:#36454F !important; }
+.border-africangreen  {border-color:#36454F !important; }
+
+
+.africannight  {color:#43302E !important; }
+.background-africannight  {background-color:#43302E !important; }
+.border-africannight  {border-color:#43302E !important; }
+
 .afterglow  {color:#E8CCD7 !important; }
 .background-afterglow  {background-color:#E8CCD7 !important; }
 .border-afterglow  {border-color:#E8CCD7 !important; }
@@ -38,12 +51,18 @@ african night<td title="47" style="background-color:#43302E; color:#FFF">47
 .background-ageratum  {background-color:#C3A6B1 !important; }
 .border-ageratum  {border-color:#C3A6B1 !important; }
 
-air castle blue<td title="184" style="background-color:#BCD4E6">184
+.aircastle  {color:#BCD4E6 !important; }
+.background-aircastle  {background-color:#BCD4E6 !important; }
+.border-aircastle  {border-color:#BCD4E6 !important; }
+
 .airycream  {color:#F2F3F4 !important; }
 .background-airycream  {background-color:#F2F3F4 !important; }
 .border-airycream  {border-color:#F2F3F4 !important; }
 
-aladdin's lamp<td title="37" style="background-color:#CB6D51">37
+.aladdinslamp  {color:#CB6D51 !important; }
+.background-aladdinslamp  {background-color:#CB6D51 !important; }
+.border-aladdinslamp  {border-color:#CB6D51 !important; }
+
 .algiersblue  {color:#367588 !important; }
 .background-algiersblue  {background-color:#367588 !important; }
 .border-algiersblue  {border-color:#367588 !important; }
@@ -63,8 +82,11 @@ aladdin's lamp<td title="37" style="background-color:#CB6D51">37
 .alpineblue  {color:#B3BCE2 !important; }
 .background-alpineblue  {background-color:#B3BCE2 !important; }
 .border-alpineblue  {border-color:#B3BCE2 !important; }
-<td title="202" style="background-color:#C0C8E1">202
-amaranth<td title="259" style="background-color:#673147; color:#FFF">259<td title="262" style="background-color:#915F6D; color:#FFF">262
+
+.amaranth  {color:#673147 !important; }
+.background-amaranth  {background-color:#673147 !important; }
+.border-amaranth  {border-color:#673147 !important; }
+
 .ambercoral  {color:#D9A6A9 !important; }
 .background-ambercoral  {background-color:#D9A6A9 !important; }
 .border-ambercoral  {border-color:#D9A6A9 !important; }
@@ -72,12 +94,15 @@ amaranth<td title="259" style="background-color:#673147; color:#FFF">259<td titl
 .ambergold  {color:#C19A6B !important; }
 .background-ambergold  {background-color:#C19A6B !important; }
 .border-ambergold  {border-color:#C19A6B !important; }
-<td title="90" style="background-color:#C2B280">90<td title="91" style="background-color:#A18F60">91
+
 .ambrosia  {color:#B6E5AF !important; }
 .background-ambrosia  {background-color:#B6E5AF !important; }
 .border-ambrosia  {border-color:#B6E5AF !important; }
 
-amethyst<td title="245" style="background-color:#836479; color:#FFF">245
+.amethyst  {color:#836479 !important; }
+.background-amethyst  {background-color:#836479 !important; }
+.border-amethyst  {border-color:#836479 !important; }
+
 .amethystorchid  {color:#B695C0 !important; }
 .background-amethystorchid  {background-color:#B695C0 !important; }
 .border-amethystorchid  {border-color:#B695C0 !important; }
@@ -89,7 +114,7 @@ amethyst<td title="245" style="background-color:#836479; color:#FFF">245
 .ancestral  {color:#F2F3F4 !important; }
 .background-ancestral  {background-color:#F2F3F4 !important; }
 .border-ancestral  {border-color:#F2F3F4 !important; }
-<td title="264" style="background-color:#B9B8B5">264
+
 .angelblue  {color:#BCD4E6 !important; }
 .background-angelblue  {background-color:#BCD4E6 !important; }
 .border-angelblue  {border-color:#BCD4E6 !important; }
@@ -101,7 +126,8 @@ amethyst<td title="245" style="background-color:#836479; color:#FFF">245
 .angora  {color:#FAD6A5 !important; }
 .background-angora  {background-color:#FAD6A5 !important; }
 .border-angora  {border-color:#FAD6A5 !important; }
-<td title="92" style="background-color:#F0EAD6">92
+
+
 antique brass<td title="88" style="background-color:#AB9144; color:#FFF">88
 antique bronze<td title="107" style="background-color:#665D1E; color:#FFF">107
 antique fuchsia<td title="241" style="background-color:#915C83; color:#FFF">241
